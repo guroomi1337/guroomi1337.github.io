@@ -1,0 +1,446 @@
+[
+  {
+    "id": "GEO-0001",
+    "category": "geography",
+    "subcategory": "边界",
+    "topic": "Point Roberts",
+    "tags": ["美国", "加拿大", "飞地", "边界"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "美国有一块\"陆地孤岛\"，只能借道加拿大才能到。",
+      "why": "Point Roberts 是美国领土，但与加拿大陆地相连，去美国本土要先出境再入境。",
+      "deep": "居民买个菜都要过边境。"
+    },
+    "source": { "name": "地理通识（美加边界）", "confidence": "verified" },
+    "related": [{ "id": "GEO-0003", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0002",
+    "category": "geography",
+    "subcategory": "时区",
+    "topic": "中国统一时区",
+    "tags": ["时区", "北京时间", "中国"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "中国全境统一用北京时间（UTC+8），实际跨越约 5 个理论时区。",
+      "why": "虽然西部太阳升落和东部差好几个小时，但全国用一个时间，方便统一调度。",
+      "deep": "新疆等地民间仍常按\"当地时间\"作息。"
+    },
+    "source": { "name": "地理通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0003",
+    "category": "geography",
+    "subcategory": "边界",
+    "topic": "非洲直线国界",
+    "tags": ["非洲", "国界", "殖民"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "非洲很多国界是笔直的——因为那是殖民者在办公室里用尺子画的。",
+      "why": "1884-1885 年柏林会议瓜分非洲时，边界很少考虑地形和族群。",
+      "deep": "这给后来的国家留下了很多\"跨界民族\"问题。"
+    },
+    "source": { "name": "非洲近代史", "confidence": "verified" },
+    "related": [{ "id": "GEO-0001", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0004",
+    "category": "geography",
+    "subcategory": "消失的湖泊",
+    "topic": "咸海",
+    "tags": ["咸海", "湖泊", "干涸"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "中亚的咸海曾是世界第四大湖，如今大部分已经干涸。",
+      "why": "苏联时期引水种棉花，入湖水量锐减。",
+      "deep": "曾经的渔船现在停在沙漠里。"
+    },
+    "source": { "name": "环境史研究", "confidence": "verified" },
+    "related": [{ "id": "LOS-0003", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0005",
+    "category": "geography",
+    "subcategory": "小国",
+    "topic": "梵蒂冈",
+    "tags": ["梵蒂冈", "小国", "面积"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "梵蒂冈是全世界最小的国家，总面积不到 0.5 平方公里。",
+      "why": "它是天主教教廷所在地，常住人口只有几百人。",
+      "deep": "它甚至有自己的广播、邮政和一条很短的铁路。"
+    },
+    "source": { "name": "世界地理通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0006",
+    "category": "geography",
+    "subcategory": "时区",
+    "topic": "日期变更线",
+    "tags": ["日期变更线", "时区", "萨摩亚"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "有的地方\"今天\"和\"昨天\"只隔一条马路。",
+      "why": "国际日期变更线让相邻岛屿可能差一天。",
+      "deep": "2011 年萨摩亚跳过 12 月 30 日，全国直接进入 12 月 31 日。"
+    },
+    "source": { "name": "时区与日期变更线记载", "confidence": "verified" },
+    "related": [{ "id": "GEO-0002", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0007",
+    "category": "geography",
+    "subcategory": "极地",
+    "topic": "南极邮局",
+    "tags": ["南极", "邮局", "企鹅"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "南极有一家\"全世界最孤独的邮局\"，每年只开几个月。",
+      "why": "英国在南极的洛克罗伊港设了邮局和博物馆，夏天才有人值守。",
+      "deep": "它同时也是企鹅栖息地，管理员的工作之一是数企鹅。"
+    },
+    "source": { "name": "南极邮政运营报道", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0008",
+    "category": "geography",
+    "subcategory": "地名",
+    "topic": "Why 小镇",
+    "tags": ["地名", "美国", "Why"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "美国亚利桑那州有个小镇真的叫 Why（为什么）。",
+      "why": "地名来源众说纷纭，一种说法是两条路在 Y 形路口交汇，\"Y\"念成了 Why。",
+      "deep": "它人口只有几十人，但地名能让人笑出声。"
+    },
+    "source": { "name": "美国地名志（来源有不同说法）", "confidence": "disputed" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0009",
+    "category": "geography",
+    "subcategory": "沙漠",
+    "topic": "撒哈拉",
+    "tags": ["撒哈拉", "沙漠", "绿洲"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "撒哈拉沙漠曾经是一片绿洲。",
+      "why": "数千年前撒哈拉有湖泊、河流和牧场，岩画里画着牛和鳄鱼。",
+      "deep": "气候变化让它逐渐变成沙漠。"
+    },
+    "source": { "name": "古气候学研究", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0010",
+    "category": "geography",
+    "subcategory": "岛屿",
+    "topic": "日本岛屿",
+    "tags": ["日本", "岛屿", "数量"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "日本有超过 1.4 万个岛屿。",
+      "why": "正式统计显示日本列岛包括 14000 多个岛，但有人居住的只有几百个。",
+      "deep": "大多数是无人岛。"
+    },
+    "source": { "name": "日本国土测绘数据（2023 年重计）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0011",
+    "category": "geography",
+    "subcategory": "极地",
+    "topic": "南极干谷",
+    "tags": ["南极", "干谷", "干旱"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "南极是地球上最干燥的大陆之一——那里有\"干谷\"，可能几百万年没下过雨。",
+      "why": "南极干谷被山脉挡住水汽，是极端干旱的极地沙漠。",
+      "deep": "那里的土壤被认为是地球上最接近火星的环境。"
+    },
+    "source": { "name": "南极科学考察资料", "confidence": "verified" },
+    "related": [{ "id": "GEO-0007", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0012",
+    "category": "geography",
+    "subcategory": "生活方式",
+    "topic": "尤坎太阳镜",
+    "tags": ["挪威", "太阳", "反光镜"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "挪威有个小镇为了晒太阳，在山顶装了巨型反光镜。",
+      "why": "尤坎（Rjukan）镇冬天几个月照不到太阳，2013 年装了三面\"太阳镜\"把阳光反射到广场。",
+      "deep": "这是真的，不是科幻。"
+    },
+    "source": { "name": "挪威尤坎镇工程报道", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "GEO-0013",
+    "category": "geography",
+    "topic": "大堡礁",
+    "tags": ["大堡礁", "珊瑚", "白化"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "大堡礁的珊瑚正在白化。",
+      "why": "海水变暖让珊瑚排出共生藻类，变白甚至死亡。",
+      "deep": "它曾被称为\"地球最大生物结构\"，现在需要人类帮它一把。"
+    },
+    "source": { "name": "海洋生态报道", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "GEO-0014",
+    "category": "geography",
+    "topic": "死亡谷",
+    "tags": ["死亡谷", "最热", "气温"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "地球最高气温纪录，出现在美国死亡谷。",
+      "why": "1913 年记录到约 56.7°C（该纪录有争议但广被引用）。",
+      "deep": "名字叫\"死亡谷\"，不是没有原因的。"
+    },
+    "source": { "name": "世界气象纪录（有争议）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "GEO-0015",
+    "category": "geography",
+    "topic": "奥伊米亚康",
+    "tags": ["奥伊米亚康", "最冷", "西伯利亚"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "世界上最冷的人类定居点，冬季可达零下 50°C。",
+      "why": "俄罗斯奥伊米亚康，曾记录到约零下 67°C。",
+      "deep": "当地人的日常：戴两层手套，睫毛会结冰。"
+    },
+    "source": { "name": "气候与定居点资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "GEO-0016",
+    "category": "geography",
+    "topic": "最长国界",
+    "tags": ["国界", "美加", "最长"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "世界上最长的不设防陆地边界，是美加边境。",
+      "why": "全长约 8900 公里。",
+      "deep": "大部分路段连围栏都没有。"
+    },
+    "source": { "name": "地理通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "GEO-0017",
+    "category": "geography",
+    "topic": "南极居民",
+    "tags": ["南极", "居民", "科考"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "南极没有永久居民，只有轮换的科考人员。",
+      "why": "那里太冷、太远，不适合定居。",
+      "deep": "但每年有几千人冬天住在那里的科考站。"
+    },
+    "source": { "name": "南极条约体系资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "GEO-0018",
+    "category": "geography",
+    "topic": "贝加尔湖",
+    "tags": ["贝加尔湖", "最深", "淡水"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "贝加尔湖是世界上最深的湖，深约 1642 米。",
+      "why": "它储存了全球约 20% 的未冻结淡水。",
+      "deep": "湖底还有自己的山脉和地震。"
+    },
+    "source": { "name": "湖泊地理资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "GEO-0019",
+    "category": "geography",
+    "topic": "最小海洋",
+    "tags": ["北冰洋", "最小", "海洋"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "北冰洋是地球上最小、最浅的大洋。",
+      "why": "面积约 1400 万平方公里，比南极洲还小。",
+      "deep": "它大部分时间被海冰覆盖。"
+    },
+    "source": { "name": "海洋地理通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "GEO-0020",
+    "category": "geography",
+    "topic": "最大沙漠",
+    "tags": ["沙漠", "南极", "最大"],
+    "factual_type": "SCIENCE",
+    "presentation": "MYTHBUST",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "世界上最大的沙漠不是撒哈拉，是南极。",
+      "why": "沙漠的定义是\"降水极少\"，南极完全符合。",
+      "deep": "撒哈拉只是最大的\"热沙漠\"。"
+    },
+    "source": { "name": "地理学通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "GEO-0021",
+    "category": "geography",
+    "topic": "格陵兰",
+    "tags": ["格陵兰", "地图", "投影"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "地图上格陵兰看着和非洲一样大，实际只有约 1/14。",
+      "why": "墨卡托投影放大了高纬度地区。",
+      "deep": "所以\"地图上的大小\"，从来不是真实大小。"
+    },
+    "source": { "name": "地图学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "GEO-0022",
+    "category": "geography",
+    "topic": "赤道上的雪山",
+    "tags": ["乞力马扎罗", "赤道", "雪"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "乞力马扎罗山在赤道附近，山顶却常年有雪。",
+      "why": "海拔 5800 多米，温度随高度骤降。",
+      "deep": "不过它的冰川正在消退，也许再过几十年就看不到了。"
+    },
+    "source": { "name": "地理通识", "confidence": "verified" },
+    "related": []
+  }
+]

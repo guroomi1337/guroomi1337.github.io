@@ -1,0 +1,438 @@
+[
+  {
+    "id": "BRA-0001",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "企鹅咨询公司",
+    "tags": ["企鹅", "咨询", "离谱"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果企鹅开一家咨询公司，它最擅长的业务是什么？",
+      "why": "团队协作？抗寒管理？还是\"永远不迟到\"的时间管理？",
+      "deep": "答案没有对错，但你越认真想，越好笑。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0002",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "仓鼠政变",
+    "tags": ["仓鼠", "政变", "离谱"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "给一只仓鼠设计一场适合它的宫廷政变方案。",
+      "why": "考虑因素：跑轮控制权、瓜子储备、以及笼子二楼的地理优势。",
+      "deep": "认真思考这件事本身，就是它的意义。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0003",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "影子意识",
+    "tags": ["影子", "意识", "讨厌"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果你的影子有自己的意识，它最讨厌你做什么？",
+      "why": "站在灯正下方？半夜开手电筒？还是突然跳起来吓它？",
+      "deep": "据说影子的第一诉求是：别把我踩在脚下（字面意义）。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0004",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "鸽子手机",
+    "tags": ["鸽子", "手机", "科技"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果所有鸽子突然学会使用智能手机，人类最先会发现什么？",
+      "why": "广场上的 WiFi 拥堵？还是鸟类摄影变成付费内容？",
+      "deep": "认真想三分钟，你可能会得到一个短篇小说的开头。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0005",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "月亮收租",
+    "tags": ["月亮", "房租", "离谱"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果月亮突然开始收房租，人类会怎么应对？",
+      "why": "讨价还价？集体失眠抗议？还是开发\"月光分期\"？",
+      "deep": "注意：月亮从不接受议价，它只会默默变圆。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0006",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "猫的一天",
+    "tags": ["猫", "人类身体", "离谱"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果猫拥有一天的人类身体，它最可能做什么？",
+      "why": "开冰箱？按遥控器？还是站在桌子边缘测试\"人类会不会掉下去\"？",
+      "deep": "以及：它会不会在晚上 11 点突然开始满屋跑。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0007",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "会说话的手机",
+    "tags": ["手机", "说话", "离谱"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果你的手机会说话，它第一句会说什么？",
+      "why": "\"该充电了\"？\"别再看我了\"？还是\"你上次答应卸载我的\"？",
+      "deep": "认真想想，你的手机可能憋了一肚子话。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0008",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "植物投票权",
+    "tags": ["植物", "投票", "离谱"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果植物拥有投票权，第一个通过的议案会是什么？",
+      "why": "阳光最大化和\"禁止踩踏\"大概率全票通过。",
+      "deep": "唯一的悬念是：仙人掌怎么投票——它可能不举手。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0009",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "眼泪发电",
+    "tags": ["眼泪", "发电", "离谱"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果眼泪能发电，人类会怎么调整情绪产业？",
+      "why": "悲伤电影变成能源行业，洋葱农场变成战略设施。",
+      "deep": "然后大家会发现：笑出眼泪的发电效率最高。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0010",
+    "category": "brainstorm",
+    "subcategory": "离谱设定",
+    "topic": "电梯乘客记忆",
+    "tags": ["电梯", "记忆", "乘客"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果全世界的电梯都开始记住乘客，你希望它记住你什么？",
+      "why": "你常按的楼层？你总在电梯里看的手机内容？还是你自言自语的习惯？",
+      "deep": "以及：它会不会在某天对你说\"好久不见\"。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "BRA-0011",
+    "category": "brainstorm",
+    "topic": "蚊子灭绝",
+    "tags": ["蚊子", "灭绝", "生态脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果全世界的蚊子突然灭绝，第一件变化可能是什么？",
+      "why": "认真说，这可能是个生态问题；但你也可以先开心五分钟。",
+      "deep": "科学家讨论过：蚊子灭绝的影响，可能比想象中小。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0012",
+    "category": "brainstorm",
+    "topic": "影子存档",
+    "tags": ["影子", "存档", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果影子能存档，你会把哪一天存进去？",
+      "why": "存档后，你可以随时\"回放\"那天站在太阳下的自己。",
+      "deep": "顺便想想：影子可能更想存你在海边的那天。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0013",
+    "category": "brainstorm",
+    "topic": "诚实咖啡",
+    "tags": ["咖啡", "真话", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果咖啡能让人说真话，最先遭殃的是谁？",
+      "why": "会议室、相亲角、以及所有说\"我没事\"的人。",
+      "deep": "这家咖啡店可能会迅速倒闭——因为没人敢再进门。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0014",
+    "category": "brainstorm",
+    "topic": "天气点单",
+    "tags": ["天气", "点单", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果天气可以点单，你会点一份什么？",
+      "why": "\"今天来一份多云，下午转晴，配 26 度。\"",
+      "deep": "注意：全城点单会打架——你的晴天是别人的闷热。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0015",
+    "category": "brainstorm",
+    "topic": "植物朋友圈",
+    "tags": ["植物", "朋友圈", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果植物会发朋友圈，它们的动态会是什么？",
+      "why": "\"今天又被浇了水，谢谢。#光合作用快乐\"。",
+      "deep": "仙人掌大概半年才发一条：\"还在。\""
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0016",
+    "category": "brainstorm",
+    "topic": "会唱歌的电梯",
+    "tags": ["电梯", "唱歌", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果电梯会唱歌，你希望它唱什么？",
+      "why": "上下班高峰期，电梯放\"好运来\"还是\"凉凉\"？",
+      "deep": "以及：它会不会在超重时，突然唱\"这首歌送给你\"。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0017",
+    "category": "brainstorm",
+    "topic": "有颜色的雨",
+    "tags": ["雨", "颜色", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果雨有颜色，你希望下雨是什么颜色？",
+      "why": "蓝色雨天适合发呆，金色雨天适合告白。",
+      "deep": "但洗车的人可能只想要透明。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0018",
+    "category": "brainstorm",
+    "topic": "冬天暂停",
+    "tags": ["冬天", "暂停", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果冬天可以\"暂停\"，你最想停在哪一天？",
+      "why": "初雪那天？放假前一天？还是暖气坏掉前的最后一晚？",
+      "deep": "暂停的代价可能是：所有人都冻在同一场雪里。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0019",
+    "category": "brainstorm",
+    "topic": "WiFi 气味",
+    "tags": ["WiFi", "气味", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果 WiFi 有气味，你家现在是什么味道？",
+      "why": "满格时像烤面包，一格时像旧报纸，断网时像烧焦。",
+      "deep": "这大概能解释为什么有人在路由器旁边睡得特别香。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0020",
+    "category": "brainstorm",
+    "topic": "会说话的垃圾桶",
+    "tags": ["垃圾桶", "说话", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果垃圾桶会说话，它最想吐槽什么？",
+      "why": "\"没扔准，我忍你很久了。\"",
+      "deep": "以及\"你昨天扔掉的奶茶，我还没消化完\"。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0021",
+    "category": "brainstorm",
+    "topic": "迟到罚款",
+    "tags": ["迟到", "罚款", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果\"迟到\"要交罚款，你会怎么应对？",
+      "why": "有人会准时，有人会干脆办月卡。",
+      "deep": "以及：叫醒服务会立刻变成一个暴利行业。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "BRA-0022",
+    "category": "brainstorm",
+    "topic": "城市专属气味",
+    "tags": ["城市", "气味", "脑洞"],
+    "factual_type": "HUMOR",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "如果每座城市都有一种专属气味，你的城市是什么味？",
+      "why": "海风、煎饼、还是新修地铁的灰尘味？",
+      "deep": "你闻到它的时候，就知道自己到家了。"
+    },
+    "source": null,
+    "related": []
+  }
+]

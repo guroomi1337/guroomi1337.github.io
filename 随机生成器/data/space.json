@@ -1,0 +1,482 @@
+[
+  {
+    "id": "SPC-0001",
+    "category": "space",
+    "subcategory": "光速",
+    "topic": "太阳消失",
+    "tags": ["太阳", "光速", "时间"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "如果太阳突然消失，我们 8 分 20 秒后才会发现。",
+      "why": "光从太阳到地球要走约 8 分 20 秒。",
+      "deep": "也就是说，我们看到的太阳永远是 8 分钟前的太阳。"
+    },
+    "source": { "name": "天文通识", "confidence": "verified" },
+    "related": [{ "id": "SPC-0002", "type": "BECAUSE" }],
+    "weight": 1.2,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0002",
+    "category": "space",
+    "subcategory": "宇宙尺度",
+    "topic": "可观测宇宙",
+    "tags": ["宇宙", "尺度", "光年"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "可观测宇宙的直径约 930 亿光年。",
+      "why": "\"可观测\"是因为光速有限，更远的地方光还没到达地球。",
+      "deep": "930 亿光年这个数，比\"宇宙年龄 138 亿年\"看着大，是因为空间本身在膨胀。"
+    },
+    "source": { "name": "宇宙学通识", "confidence": "widely_accepted" },
+    "related": [{ "id": "SPC-0001", "type": "BECAUSE" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0003",
+    "category": "space",
+    "subcategory": "黑洞",
+    "topic": "黑洞",
+    "tags": ["黑洞", "事件视界", "时空"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "黑洞不是\"洞\"，而是一团极度弯曲的时空。",
+      "why": "当质量压进极小空间，引力强到连光都逃不出去，事件视界就是\"出不去的边界\"。",
+      "deep": "2019 年人类发布了第一张黑洞照片（M87*）。"
+    },
+    "source": { "name": "天体物理学通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0004",
+    "category": "space",
+    "subcategory": "恒星",
+    "topic": "参宿四",
+    "tags": ["恒星", "参宿四", "太阳"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "天上很多\"星星\"其实比太阳大得多。",
+      "why": "参宿四是一颗红超巨星，直径约为太阳的 700-900 倍。",
+      "deep": "如果把它放到太阳的位置，它会把地球轨道吞进去。"
+    },
+    "source": { "name": "恒星物理通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0005",
+    "category": "space",
+    "subcategory": "银河系",
+    "topic": "银河系",
+    "tags": ["银河系", "恒星", "旋臂"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "银河系里有数千亿颗恒星，而我们连它长什么样都没亲眼见过。",
+      "why": "我们身处银盘内部，看到的只是一条\"银河\"光带。",
+      "deep": "它的旋臂结构是靠观测其他星系推断的。"
+    },
+    "source": { "name": "天文学通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0006",
+    "category": "space",
+    "subcategory": "时间",
+    "topic": "时间膨胀",
+    "tags": ["时间", "相对论", "GPS"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "时间在不同速度下流逝快慢不同。",
+      "why": "狭义相对论：运动越快、引力越强，时间过得越慢。",
+      "deep": "GPS 卫星就是因为这个必须修正时间，不然定位会越来越偏。"
+    },
+    "source": { "name": "相对论通识", "confidence": "verified" },
+    "related": [{ "id": "SPC-0001", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0007",
+    "category": "space",
+    "subcategory": "暗物质",
+    "topic": "暗物质",
+    "tags": ["暗物质", "暗能量", "宇宙"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "宇宙里我们看得见的物质，只占一小部分。",
+      "why": "暗物质不发光，但通过引力影响星系运动；暗能量则在让宇宙加速膨胀。",
+      "deep": "\"暗\"的意思是看不见，不是\"邪恶\"。"
+    },
+    "source": { "name": "宇宙学通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0008",
+    "category": "space",
+    "subcategory": "外星生命",
+    "topic": "费米悖论",
+    "tags": ["费米悖论", "外星文明", "宇宙"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "宇宙这么大，外星文明在哪里？——这就是费米悖论。",
+      "why": "按概率宇宙该有很多文明，但我们一个都没遇到。",
+      "deep": "可能的解释：文明很稀有、很难长寿，或者我们还没听见。"
+    },
+    "source": { "name": "宇宙学与科幻通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0009",
+    "category": "space",
+    "subcategory": "行星",
+    "topic": "金星",
+    "tags": ["金星", "温室效应", "行星"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "金星是太阳系最热的行星，比水星还热。",
+      "why": "金星有浓密的二氧化碳大气和硫酸云，温室效应失控，表面约 460°C。",
+      "deep": "它的气压是地球的 90 倍，探测器上去很快被压坏。"
+    },
+    "source": { "name": "行星科学通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0010",
+    "category": "space",
+    "subcategory": "月球",
+    "topic": "月球远离",
+    "tags": ["月球", "潮汐", "远离"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "月球正在每年离地球远去约 3.8 厘米。",
+      "why": "潮汐作用把能量转移给月球轨道，让它慢慢外移。",
+      "deep": "几十亿年前，月球离地球近得多，那时的潮汐比现在壮观。"
+    },
+    "source": { "name": "天体力学通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0011",
+    "category": "space",
+    "subcategory": "宇宙终结",
+    "topic": "热寂",
+    "tags": ["宇宙", "热寂", "结局"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "宇宙的结局可能是\"热寂\"：一切趋于均匀冰冷。",
+      "why": "如果宇宙继续膨胀，恒星会耗尽燃料，黑洞蒸发，熵达到最大。",
+      "deep": "这是目前主流的\"大结局\"之一，但还有别的可能。"
+    },
+    "source": { "name": "宇宙学通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0012",
+    "category": "space",
+    "subcategory": "航天",
+    "topic": "国际空间站",
+    "tags": ["空间站", "日出", "90分钟"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "国际空间站 90 分钟绕地球一圈，宇航员一天能看 16 次日出。",
+      "why": "它飞行速度约 7.66 公里/秒。",
+      "deep": "所以空间站上的\"一天\"和我们完全不同。"
+    },
+    "source": { "name": "航天科普通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SPC-0013",
+    "category": "space",
+    "topic": "宇航员变高",
+    "tags": ["宇航员", "身高", "失重"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "宇航员在太空会长高约 3-5 厘米。",
+      "why": "失重让脊柱椎间盘舒展开。",
+      "deep": "回到地球后，身高又会缩回去。"
+    },
+    "source": { "name": "航天医学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0014",
+    "category": "space",
+    "topic": "火星日落",
+    "tags": ["火星", "日落", "蓝色"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "火星上的日落是蓝色的。",
+      "why": "火星大气稀薄、尘埃多，散射方式和地球相反。",
+      "deep": "NASA 探测器拍到过真实的蓝色日落。"
+    },
+    "source": { "name": "NASA 公开资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0015",
+    "category": "space",
+    "topic": "月球天空",
+    "tags": ["月球", "天空", "黑色"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "月球没有大气层，天空永远是黑的。",
+      "why": "即使\"白天\"，月球天空也是黑色。",
+      "deep": "星星不会闪烁——闪烁是地球大气造成的。"
+    },
+    "source": { "name": "天文通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0016",
+    "category": "space",
+    "topic": "大红斑",
+    "tags": ["木星", "大红斑", "风暴"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "木星的大红斑是一场持续了几百年的风暴。",
+      "why": "它大到能装下整个地球。",
+      "deep": "它正在慢慢变小，但还没有要停的意思。"
+    },
+    "source": { "name": "行星科学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0017",
+    "category": "space",
+    "topic": "土星密度",
+    "tags": ["土星", "密度", "水"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "土星的平均密度比水还低——理论上能浮在水上。",
+      "why": "土星大部分是气体，平均密度约 0.69 克/立方厘米。",
+      "deep": "当然，你得先找到足够大的水池。"
+    },
+    "source": { "name": "行星科学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0018",
+    "category": "space",
+    "topic": "光年",
+    "tags": ["光年", "距离", "单位"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "一光年不是时间，是距离，约 9.46 万亿公里。",
+      "why": "它是一束光在真空中走一年的距离。",
+      "deep": "最近的恒星离我们 4.2 光年——光都要走 4 年多。"
+    },
+    "source": { "name": "天文通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0019",
+    "category": "space",
+    "topic": "电视雪花",
+    "tags": ["宇宙微波背景", "电视", "雪花"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "老电视的雪花点里，有一部分是宇宙大爆炸的余晖。",
+      "why": "约 1% 的电视雪花噪声来自宇宙微波背景辐射。",
+      "deep": "你相当于在用电视接收 138 亿年前的信号。"
+    },
+    "source": { "name": "宇宙学通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SPC-0020",
+    "category": "space",
+    "topic": "太阳质量",
+    "tags": ["太阳", "质量", "太阳系"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "太阳占了太阳系总质量的 99.8% 以上。",
+      "why": "所有行星、卫星、小行星加起来，只是太阳的零头。",
+      "deep": "所以太阳系的重心，几乎就在太阳中心。"
+    },
+    "source": { "name": "天文通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0021",
+    "category": "space",
+    "topic": "意大利面化",
+    "tags": ["黑洞", "潮汐力", "拉长"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "掉进黑洞前，你会先被\"拉成面条\"。",
+      "why": "头和脚的引力差极大，身体会被拉伸。",
+      "deep": "科学家管这个叫\"意大利面化\"（spaghettification）。"
+    },
+    "source": { "name": "天体物理通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0022",
+    "category": "space",
+    "topic": "水星的一天",
+    "tags": ["水星", "自转", "一年"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "在水星上，一天比一年还长。",
+      "why": "水星自转很慢、公转相对快：一天约 176 个地球日，一年约 88 个地球日。",
+      "deep": "所以在水星上，\"太阳升起又落下\"一次，等于过了两个水星年。"
+    },
+    "source": { "name": "行星科学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0023",
+    "category": "space",
+    "topic": "太空无声",
+    "tags": ["太空", "声音", "真空"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "太空里听不到声音。",
+      "why": "声音需要介质传播，太空几乎是真空。",
+      "deep": "电影里的爆炸声，都是后期配音。"
+    },
+    "source": { "name": "物理通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "SPC-0024",
+    "category": "space",
+    "topic": "哈勃深空",
+    "tags": ["哈勃", "深空", "时间机器"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "哈勃望远镜看到过\"接近时间起点\"的星系。",
+      "why": "它拍到的深空照片，光线走了上百亿年。",
+      "deep": "看远就是看过去——望远镜都是时光机。"
+    },
+    "source": { "name": "哈勃望远镜公开资料", "confidence": "verified" },
+    "related": []
+  }
+]

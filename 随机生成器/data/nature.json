@@ -1,0 +1,480 @@
+[
+  {
+    "id": "NAT-0001",
+    "category": "nature",
+    "subcategory": "大气",
+    "topic": "臭氧",
+    "tags": ["闪电", "气味", "臭氧"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "闪电过后空气里那股特殊的气味，其实是臭氧。",
+      "why": "闪电的高温让氧气变成臭氧（O₃），臭氧浓度高时有股清新的\"电\"味。",
+      "deep": "复印机也有类似气味——它们会产生少量臭氧。"
+    },
+    "source": { "name": "大气化学通识", "confidence": "verified" },
+    "related": [{ "id": "NAT-0003", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0002",
+    "category": "nature",
+    "subcategory": "物理",
+    "topic": "光与声",
+    "tags": ["闪电", "雷声", "光速", "声速"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "你先看到闪电、后听到雷声，是因为光比声音快约 90 万倍。",
+      "why": "光速约 30 万公里/秒，声速约 340 米/秒。数\"看到闪电后几秒听到雷\"，每 3 秒大约差 1 公里。",
+      "deep": "所以\"三秒一公里\"是估算闪电距离的小技巧。"
+    },
+    "source": { "name": "物理通识", "confidence": "verified" },
+    "related": [{ "id": "NAT-0001", "type": "BECAUSE" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0003",
+    "category": "nature",
+    "subcategory": "光学",
+    "topic": "天空颜色",
+    "tags": ["天空", "蓝色", "散射"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "天空是蓝色的，因为空气分子更爱散射蓝光。",
+      "why": "阳光穿过大气时，蓝光波长短，被散射得最厉害，于是从四面八方涌进你的眼睛。",
+      "deep": "日落时阳光斜穿大气路程变长，蓝光被散射掉，剩下的红橙光就染红了天空。"
+    },
+    "source": { "name": "大气光学通识", "confidence": "verified" },
+    "related": [{ "id": "NAT-0001", "type": "SIMILAR" }],
+    "weight": 1.1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0004",
+    "category": "nature",
+    "subcategory": "海洋",
+    "topic": "海水颜色",
+    "tags": ["海洋", "颜色", "水"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "海水本身几乎无色，大海的蓝色主要来自水分子对红光的吸收。",
+      "why": "水对长波红光吸收强，阳光进入海水后红光很快消失，剩下的蓝光被我们看到。",
+      "deep": "所以水越深越蓝；有藻类或泥沙时，海面会变绿变褐。"
+    },
+    "source": { "name": "海洋光学通识", "confidence": "verified" },
+    "related": [{ "id": "NAT-0003", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0005",
+    "category": "nature",
+    "subcategory": "化学",
+    "topic": "碳",
+    "tags": ["钻石", "石墨", "碳", "铅笔"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "钻石和铅笔芯是亲戚——都是碳。",
+      "why": "石墨和金刚石都由碳原子组成，只是排列方式不同。",
+      "deep": "把铅笔芯高温高压，理论上也能变成钻石——工业合成钻石确实就是这么做的。"
+    },
+    "source": { "name": "化学通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0006",
+    "category": "nature",
+    "subcategory": "物理",
+    "topic": "冰",
+    "tags": ["冰", "密度", "水"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "冰能浮在水上，因为水结冰时反而变轻了。",
+      "why": "水分子在冰里排列成较松散的晶格，体积变大、密度变小。",
+      "deep": "如果冰比水重，湖会从底部冻起，水里的生命可能活不过冬天。"
+    },
+    "source": { "name": "物理通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0007",
+    "category": "nature",
+    "subcategory": "地质",
+    "topic": "火山",
+    "tags": ["火山", "坦博拉", "无夏之年"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "1815 年坦博拉火山喷发，让第二年成了\"没有夏天的一年\"。",
+      "why": "大量火山灰和硫化物进入平流层，挡住阳光，全球气温下降。",
+      "deep": "1816 年欧洲六月飘雪、粮食歉收，被称为\"无夏之年\"。"
+    },
+    "source": { "name": "气候历史研究", "confidence": "verified" },
+    "related": [{ "id": "HIS-0001", "type": "WOW" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0008",
+    "category": "nature",
+    "subcategory": "大气",
+    "topic": "闪电温度",
+    "tags": ["闪电", "温度", "太阳"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "一道闪电的温度大约是太阳表面的 5 倍。",
+      "why": "闪电通道温度可达约 3 万摄氏度，而太阳表面约 5500 摄氏度。",
+      "deep": "所以被雷击中的沙子会被瞬间烧成玻璃状——叫\"闪电熔岩\"。"
+    },
+    "source": { "name": "大气物理学通识", "confidence": "widely_accepted" },
+    "related": [{ "id": "NAT-0001", "type": "WOW" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0009",
+    "category": "nature",
+    "subcategory": "海洋",
+    "topic": "海水咸度",
+    "tags": ["海水", "咸", "岩石"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "海水里的盐，大部分来自陆地上的岩石。",
+      "why": "雨水和河流把岩石里的矿物质溶解后带进海洋，亿万年积累，盐越积越多。",
+      "deep": "河流仍在不断送盐，而海洋蒸发时只带走水，盐就留了下来。"
+    },
+    "source": { "name": "海洋化学通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0010",
+    "category": "nature",
+    "subcategory": "天文",
+    "topic": "地球自转",
+    "tags": ["地球", "自转", "速度"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "你正坐在一把\"每秒约 460 米\"的椅子上（赤道处）。",
+      "why": "地球赤道自转线速度约 1670 公里/小时。",
+      "deep": "但你感觉不到，因为你和周围的一切都在同步转。"
+    },
+    "source": { "name": "天文通识", "confidence": "verified" },
+    "related": [{ "id": "SPC-0006", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0011",
+    "category": "nature",
+    "subcategory": "海洋",
+    "topic": "马里亚纳海沟",
+    "tags": ["马里亚纳海沟", "深海", "珠穆朗玛峰"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "马里亚纳海沟深约 1.1 万米——把珠穆朗玛峰放进去，山顶离水面还有约 2000 米。",
+      "why": "挑战者深渊深约 1.09 万-1.1 万米，具体数字因测量方法而异。",
+      "deep": "那里的压强是海面的 1000 多倍，但依然有生物生活。"
+    },
+    "source": { "name": "海洋学通识", "confidence": "widely_accepted" },
+    "related": [{ "id": "ANM-0025", "type": "WOW" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0012",
+    "category": "nature",
+    "subcategory": "生态",
+    "topic": "深海热泉",
+    "tags": ["深海热泉", "生命", "无阳光"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "深海热泉周围有一整个不靠阳光的生态系统。",
+      "why": "那里的细菌靠化学能（硫化物）制造有机物，管虫、虾蟹再吃它们。",
+      "deep": "这是\"生命可以不靠太阳\"的直接证据，也是科学家寻找外星生命时的参考样板。"
+    },
+    "source": { "name": "深海生态学研究", "confidence": "verified" },
+    "related": [{ "id": "ANM-0006", "type": "WOW" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0013",
+    "category": "nature",
+    "subcategory": "生物",
+    "topic": "树叶变色",
+    "tags": ["秋天", "树叶", "叶绿素"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "秋天树叶变黄变红，是因为绿色素\"下班\"了。",
+      "why": "叶绿素不稳定，秋天分解后，被掩盖的类胡萝卜素（黄橙）显现；花青素在低温下变红。",
+      "deep": "常绿树不落叶或少落叶，叶绿素持续更新，所以四季常青。"
+    },
+    "source": { "name": "植物生理学通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0014",
+    "category": "nature",
+    "subcategory": "地质",
+    "topic": "钟乳石",
+    "tags": ["钟乳石", "洞穴", "生长"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "钟乳石平均几百年才长 1 厘米。",
+      "why": "它由含碳酸钙的水滴一滴一滴沉积而成。",
+      "deep": "所以一根钟乳石动辄几千岁，你摸一下就可能毁掉它几百年。"
+    },
+    "source": { "name": "地质学通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0015",
+    "category": "nature",
+    "subcategory": "生物",
+    "topic": "鲸鱼呼吸",
+    "tags": ["鲸鱼", "呼吸", "哺乳动物"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "鲸鱼不是鱼，它们用肺呼吸，必须浮出水面换气。",
+      "why": "鲸的祖先是陆地哺乳动物，后来回到海里，但保留了肺和哺乳行为。",
+      "deep": "鲸喷出的\"水柱\"其实是呼出的气体遇到冷空气凝结的水汽，夹带少量海水。"
+    },
+    "source": { "name": "生物演化通识", "confidence": "verified" },
+    "related": [{ "id": "ANM-0025", "type": "WOW" }],
+    "weight": 1.1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0016",
+    "category": "nature",
+    "subcategory": "地球物理",
+    "topic": "磁极",
+    "tags": ["指南针", "磁极", "磁场"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "指南针指的\"北\"，和地理北极不是同一个地方。",
+      "why": "地球磁场北极在地理南极附近，而且磁极在缓慢漂移。",
+      "deep": "更神奇的是，地球磁场在历史上曾经多次整体倒转。"
+    },
+    "source": { "name": "地球物理学通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "NAT-0017",
+    "category": "nature",
+    "topic": "圆形彩虹",
+    "tags": ["彩虹", "圆形", "光学"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "彩虹其实是个完整的圆，只是地面挡住了另一半。",
+      "why": "站在高处或飞机上，能看到圆形彩虹。",
+      "deep": "下次坐飞机，可以盯着窗外找找。"
+    },
+    "source": { "name": "光学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "NAT-0018",
+    "category": "nature",
+    "topic": "之字形闪电",
+    "tags": ["闪电", "之字形", "路径"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "闪电走\"之\"字形，因为它在找阻力最小的路。",
+      "why": "空气湿度、温度不均匀，电流不断分叉试探。",
+      "deep": "你看到的那一道光，其实是无数\"尝试\"的结果。"
+    },
+    "source": { "name": "大气物理通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "NAT-0019",
+    "category": "nature",
+    "topic": "烧水声",
+    "tags": ["烧水", "声音", "气泡"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "水烧开前的声音，来自气泡破裂。",
+      "why": "壶底气泡上升时遇到较冷的水，收缩破裂发出\"咕噜\"声。",
+      "deep": "真正沸腾后气泡直达水面，声音反而变小。"
+    },
+    "source": { "name": "物理通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "NAT-0020",
+    "category": "nature",
+    "topic": "钻石不是最硬",
+    "tags": ["钻石", "硬度", "材料"],
+    "factual_type": "SCIENCE",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "钻石不是\"绝对最硬\"的材料。",
+      "why": "它是天然矿物里最硬的，但实验室材料在特定方向上更强。",
+      "deep": "\"最硬\"要看怎么测——硬度也有好几种定义。"
+    },
+    "source": { "name": "材料科学通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "NAT-0021",
+    "category": "nature",
+    "topic": "地球核心",
+    "tags": ["地球核心", "温度", "太阳"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "地球核心的温度约 5500°C，和太阳表面差不多。",
+      "why": "放射性衰变和残余热量让它保持炽热。",
+      "deep": "你脚下 6000 多公里处，有一团和太阳表面一样热的东西。"
+    },
+    "source": { "name": "地球物理学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "NAT-0022",
+    "category": "nature",
+    "topic": "蚂蚁大力士",
+    "tags": ["蚂蚁", "力量", "昆虫"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "蚂蚁能举起自身体重 50 倍以上的东西。",
+      "why": "小体型让它的肌肉相对比例更大。",
+      "deep": "如果按比例换算，人类早就成超人了。"
+    },
+    "source": { "name": "昆虫学通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "NAT-0023",
+    "category": "nature",
+    "topic": "臭氧层",
+    "tags": ["臭氧层", "蒙特利尔议定书", "恢复"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "臭氧层空洞主要是氯氟烃（CFC）造成的，正在缓慢恢复。",
+      "why": "1987 年《蒙特利尔议定书》后，全球逐步淘汰了相关物质。",
+      "deep": "它是人类合作修复环境最成功的案例之一。"
+    },
+    "source": { "name": "大气科学通识", "confidence": "verified" },
+    "related": []
+  }
+]

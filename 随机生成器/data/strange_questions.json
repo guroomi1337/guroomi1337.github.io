@@ -1,0 +1,438 @@
+[
+  {
+    "id": "STR-0001",
+    "category": "strange_questions",
+    "subcategory": "自我",
+    "topic": "墓志铭",
+    "tags": ["墓志铭", "一句话", "自我"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果你的墓志铭只能写一句话，你会写什么？",
+      "why": "这个问题逼你在一瞬间概括自己——其实没人能概括。",
+      "deep": "但想它的过程，比答案更有意思。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0002",
+    "category": "strange_questions",
+    "subcategory": "记忆",
+    "topic": "删除记忆",
+    "tags": ["记忆", "删除", "选择"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果你可以删除人生中的一个记忆，但永远不知道自己删除了什么，你愿意吗？",
+      "why": "痛苦让人想删，但\"不知道自己删了什么\"本身就是一种失去。",
+      "deep": "你会为了轻松，买一张\"内容未知\"的彩票吗？"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0003",
+    "category": "strange_questions",
+    "subcategory": "社会",
+    "topic": "真话社会",
+    "tags": ["真话", "社会", "诚实"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "如果从今天开始，所有人都只能说真话，社会会变得更好吗？",
+      "why": "谎言有时是润滑剂：\"你穿这件很好看\"也算一种善意。",
+      "deep": "真话社会会不会变成一个互相伤害的社会？"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0004",
+    "category": "strange_questions",
+    "subcategory": "自我",
+    "topic": "后悔",
+    "tags": ["后悔", "决定", "未来"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果你知道自己五年后一定会后悔现在的一个决定，你还会做吗？",
+      "why": "知道结果还选，说明它对你的意义比后悔更大。",
+      "deep": "还是说，人只是永远高估\"现在的自己\"？"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0005",
+    "category": "strange_questions",
+    "subcategory": "自我",
+    "topic": "三个瞬间",
+    "tags": ["陌生人", "瞬间", "人生"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果一个陌生人可以看到你人生中最重要的三个瞬间，你会希望是哪三个？",
+      "why": "你选的三个瞬间，就是你给自己写的人生简介。",
+      "deep": "大多数人会发现：自己最想展示的，和每天在忙的，不是同一件事。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0006",
+    "category": "strange_questions",
+    "subcategory": "重来",
+    "topic": "重来一次",
+    "tags": ["重来", "人生", "不记得"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果人生可以\"重来一次\"，但你不记得，你愿意吗？",
+      "why": "不记得的重来，等于没重来——那你还想要吗？",
+      "deep": "这个问题的答案，藏在\"你到底想要什么\"里。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0007",
+    "category": "strange_questions",
+    "subcategory": "动物",
+    "topic": "听懂动物",
+    "tags": ["动物", "语言", "问题"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果能听懂所有动物的语言，你最想先问谁？",
+      "why": "猫？狗？还是窗台上那只一直叫的鸟？",
+      "deep": "小心：有些问题问了可能后悔，比如\"你到底在想什么\"。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0008",
+    "category": "strange_questions",
+    "subcategory": "隐私",
+    "topic": "记忆导出",
+    "tags": ["记忆", "导出", "隐私"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果你的记忆可以被\"导出\"，你希望谁看到？",
+      "why": "选一个人，就是在选\"你想被谁真正理解\"。",
+      "deep": "顺便想想：你自己敢看自己的全部记忆吗？"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0009",
+    "category": "strange_questions",
+    "subcategory": "日常",
+    "topic": "关门瞬间",
+    "tags": ["关门", "记忆", "微小"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "为什么你通常不记得自己关门的那一刻？",
+      "why": "因为关门足够普通，大脑判定\"不需要存档\"。",
+      "deep": "那今天回家时，试着记住一次关门——你会发现它其实很具体。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0010",
+    "category": "strange_questions",
+    "subcategory": "自我",
+    "topic": "看手",
+    "tags": ["手", "观察", "自己"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "你最后一次认真看自己的手，是什么时候？",
+      "why": "它帮你打字、吃饭、写字，但你很少真正\"看\"它。",
+      "deep": "现在看一眼：它大概不是你以为的样子。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1.1,
+    "status": "published"
+  },
+  {
+    "id": "STR-0011",
+    "category": "strange_questions",
+    "topic": "最后一个问题",
+    "tags": ["问题", "一生", "追问"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果这辈子只能再问别人一个问题，你会问什么？",
+      "why": "这个问题会暴露你真正在意的东西。",
+      "deep": "不用急着回答，想三天再答。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0012",
+    "category": "strange_questions",
+    "topic": "颜色差异",
+    "tags": ["颜色", "感知", "好奇"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果所有人看到的颜色都不同，但没人能证明，你会好奇吗？",
+      "why": "你没法把\"红色\"翻译给别人看。",
+      "deep": "这个问题问到最后，会碰到\"意识\"的边界。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0013",
+    "category": "strange_questions",
+    "topic": "动物告状",
+    "tags": ["动物", "告状", "脑洞"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果动物会告状，它们第一件会告什么？",
+      "why": "可能是\"人类占了我的地盘\"，也可能是\"有人半夜偷看我\"。",
+      "deep": "想想你家猫会告什么——答案可能有点扎心。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0014",
+    "category": "strange_questions",
+    "topic": "手机总结",
+    "tags": ["手机", "一天", "总结"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果你的手机能自动总结你的一天，它今天会怎么说？",
+      "why": "它知道你看了什么、几点睡的、和谁聊到深夜。",
+      "deep": "它的总结可能比你的日记诚实得多。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0015",
+    "category": "strange_questions",
+    "topic": "后悔的声音",
+    "tags": ["后悔", "声音", "想象"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果\"后悔\"有声音，它听起来像什么？",
+      "why": "是叹气，是关门的声响，还是深夜的消息提示音？",
+      "deep": "想完你会发现，你已经给后悔找到了形状。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0016",
+    "category": "strange_questions",
+    "topic": "一条规矩",
+    "tags": ["规矩", "全人类", "选择"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "如果可以让全人类遵守一条规矩，你定什么？",
+      "why": "注意：这条规矩必须所有人无条件遵守。",
+      "deep": "大多数人的答案，会暴露他们最近被什么气到过。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0017",
+    "category": "strange_questions",
+    "topic": "记忆买卖",
+    "tags": ["记忆", "买卖", "选择"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果记忆能买卖，你会买什么、卖什么？",
+      "why": "买一段别人的旅行？卖掉一次尴尬的瞬间？",
+      "deep": "这个问题的隐藏问法是：你觉得自己最值钱的一段记忆是什么。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0018",
+    "category": "strange_questions",
+    "topic": "如果消失",
+    "tags": ["如果", "消失", "脑洞"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "如果世界上所有的\"如果\"都消失，会发生什么？",
+      "why": "没有假设、没有后悔、没有\"早知道\"。",
+      "deep": "然后你会发现：连这个问题本身都不该存在。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0019",
+    "category": "strange_questions",
+    "topic": "最没用的超能力",
+    "tags": ["超能力", "没用", "脑洞"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "如果明天醒来你拥有一个超能力，但必须是最没用的那种，你希望是什么？",
+      "why": "比如\"能知道自己昨天吃了什么\"。",
+      "deep": "认真的答案往往最好笑，因为它其实是你的愿望。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0020",
+    "category": "strange_questions",
+    "topic": "地球停转",
+    "tags": ["地球", "停转", "想象"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果地球突然停止自转，你希望自己在哪里？",
+      "why": "注意：如果真停了，哪里都不安全——所以这是想象题。",
+      "deep": "答案不重要，重要的是你下意识想去的地方。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0021",
+    "category": "strange_questions",
+    "topic": "问古人",
+    "tags": ["古人", "问题", "历史"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "如果可以问一位古人一个问题，你问谁、问什么？",
+      "why": "问李白怎么写诗？问士兵怕不怕？问皇帝后悔什么？",
+      "deep": "你的答案里，藏着你真正想了解的历史。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "STR-0022",
+    "category": "strange_questions",
+    "topic": "看得见的寿命",
+    "tags": ["寿命", "看见", "想象"],
+    "factual_type": "QUESTION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果人的寿命能看见，你希望它显示在哪里？",
+      "why": "头顶？手腕？还是只有自己看得见？",
+      "deep": "选择显示位置，就是在选择你想怎么活。"
+    },
+    "source": null,
+    "related": []
+  }
+]

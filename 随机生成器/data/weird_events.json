@@ -1,0 +1,454 @@
+[
+  {
+    "id": "WER-0001",
+    "category": "weird_events",
+    "subcategory": "谣言史",
+    "topic": "月球骗局",
+    "tags": ["1835", "月球", "骗局", "报纸"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "1835 年，报纸连载\"月球上发现生命\"，居然有人信了。",
+      "why": "《纽约太阳报》连发系列文章，说在月球上发现了长翅膀的人，报纸销量暴涨。",
+      "deep": "后来承认是编的——但\"假新闻\"这门生意早在那时就有了。"
+    },
+    "source": { "name": "新闻史记载", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0002",
+    "category": "weird_events",
+    "subcategory": "极端地点",
+    "topic": "特内雷树",
+    "tags": ["撒哈拉", "树", "孤独"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "撒哈拉曾有\"世界上最孤独的树\"，1973 年被卡车撞倒。",
+      "why": "特内雷树方圆几百公里只有它一棵树，是沙漠地标。",
+      "deep": "它倒掉后，人们立了座金属雕塑纪念它。"
+    },
+    "source": { "name": "地理趣闻记载", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0003",
+    "category": "weird_events",
+    "subcategory": "极端地点",
+    "topic": "Point Nemo",
+    "tags": ["Point Nemo", "海洋", "最远"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "太平洋里有个\"离任何陆地最远\"的点，叫 Point Nemo。",
+      "why": "它离最近的陆地约 2688 公里，宇航员返航时坠落点常选附近海域。",
+      "deep": "因为离人最远，它也是\"航天器公墓\"。"
+    },
+    "source": { "name": "海洋地理通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0004",
+    "category": "weird_events",
+    "subcategory": "骗局史",
+    "topic": "科廷利仙女",
+    "tags": ["仙女", "照片", "骗局"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "1917 年，两个女孩拍到了\"仙女\"照片，骗到了柯南·道尔。",
+      "why": "照片其实是剪纸，但当时很多人深信不疑。",
+      "deep": "几十年后她们承认是假的，其中一人说：\"人们总想相信。\""
+    },
+    "source": { "name": "摄影史与骗局记载", "confidence": "verified" },
+    "related": [{ "id": "WER-0001", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0005",
+    "category": "weird_events",
+    "subcategory": "纪录怪事",
+    "topic": "最长胡子",
+    "tags": ["吉尼斯", "胡子", "纪录"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "吉尼斯纪录里最长的胡子，死后还有 5 米多长。",
+      "why": "挪威人汉斯·朗塞斯的胡子据纪录约 5.3 米，死后才测量。",
+      "deep": "他生前把胡子卷起来放进口袋。"
+    },
+    "source": { "name": "吉尼斯世界纪录（数据为死后测量）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0006",
+    "category": "weird_events",
+    "subcategory": "自然奇观",
+    "topic": "卡塔通博闪电",
+    "tags": ["闪电", "委内瑞拉", "雷暴"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "委内瑞拉有个地方一年有近 300 天夜里闪电不断。",
+      "why": "卡塔通博河口的特殊地形和气流让雷暴几乎全年无休，被称为\"永不熄灭的闪电\"。",
+      "deep": "当地渔民把它当天然灯塔。"
+    },
+    "source": { "name": "气象地理报道", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0007",
+    "category": "weird_events",
+    "subcategory": "文化差异",
+    "topic": "埃塞俄比亚历法",
+    "tags": ["埃塞俄比亚", "历法", "时间"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "埃塞俄比亚有自己的日历，现在比公历慢约 7-8 年。",
+      "why": "它沿用科普特历法，一年有 13 个月。",
+      "deep": "所以 2026 年在埃塞俄比亚是 2018/2019 年。"
+    },
+    "source": { "name": "历法文化记载", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0008",
+    "category": "weird_events",
+    "subcategory": "历史小人物",
+    "topic": "笑脸符号",
+    "tags": ["笑脸", "符号", "版权"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "第一个印刷出来的\"笑脸\"，1972 年在美国报纸上出现。",
+      "why": "哈维·鲍尔为保险公司画了黄色笑脸，版权费据传只拿了 45 美元。",
+      "deep": "后来它风靡全球，但原作者没赚到钱。"
+    },
+    "source": { "name": "符号史记载（费用为流传说法）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0009",
+    "category": "weird_events",
+    "subcategory": "科学误解",
+    "topic": "火星运河",
+    "tags": ["火星", "运河", "错觉"],
+    "factual_type": "HISTORY",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "19 世纪末，天文学家以为火星上有运河，其实是错觉。",
+      "why": "洛厄尔用望远镜观察火星，把地形细节误认为人工运河，引发\"火星文明\"热潮。",
+      "deep": "这是\"眼见不一定为实\"的著名科学故事。"
+    },
+    "source": { "name": "天文学史", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0010",
+    "category": "weird_events",
+    "subcategory": "城市史",
+    "topic": "伦敦大恶臭",
+    "tags": ["伦敦", "1858", "下水道"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "1858 年伦敦\"大恶臭\"，议会不得不挂浸过消毒剂的窗帘。",
+      "why": "泰晤士河被污水污染，恶臭熏天，最终推动了现代下水道建设。",
+      "deep": "一场灾难逼出了一座城市的卫生革命。"
+    },
+    "source": { "name": "伦敦城市史", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0011",
+    "category": "weird_events",
+    "subcategory": "战争奇闻",
+    "topic": "熊兵",
+    "tags": ["熊", "二战", "波兰"],
+    "factual_type": "HISTORY",
+    "presentation": "STORY",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "medium",
+    "tone": "warm",
+    "layers": {
+      "teaser": "二战时，波兰军队里有一头会搬炮弹的熊。",
+      "why": "士兵收养的棕熊\"沃伊泰克\"学会搬运弹药箱，还随军去了意大利。",
+      "deep": "它后来在爱丁堡动物园安度晚年，深受当地人喜爱。"
+    },
+    "source": { "name": "二战历史记载", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0012",
+    "category": "weird_events",
+    "subcategory": "误解",
+    "topic": "圣诞老人红衣",
+    "tags": ["圣诞老人", "可口可乐", "误解"],
+    "factual_type": "HISTORY",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "圣诞老人穿红衣不是可口可乐发明的——但这说法很流行。",
+      "why": "可口可乐 1930 年代的广告确实让红衣形象深入人心，但红衣圣诞老人更早就存在。",
+      "deep": "谣言比真相传播得快，这也是个例子。"
+    },
+    "source": { "name": "节日史与广告史", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0013",
+    "category": "weird_events",
+    "subcategory": "食物怪事",
+    "topic": "黑象牙咖啡",
+    "tags": ["咖啡", "大象", "食物"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "世界上最贵的咖啡之一，来自大象粪便。",
+      "why": "泰国\"黑象牙咖啡\"让大象吃下咖啡豆，随粪便排出，再手工挑选。",
+      "deep": "据说消化过程让咖啡豆风味更柔和。"
+    },
+    "source": { "name": "咖啡产业报道", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0014",
+    "category": "weird_events",
+    "subcategory": "极端事件",
+    "topic": "拉多加湖冰路",
+    "tags": ["列宁格勒", "冰路", "二战"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "二战围城期间，列宁格勒靠一条结冰的湖面\"生命之路\"运粮。",
+      "why": "拉多加湖结冰后，卡车冒险从冰上穿过，把食物送进被围的城市。",
+      "deep": "冰面会开裂，很多司机没能回来——但这条冰路救了一座城。"
+    },
+    "source": { "name": "二战史记载", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "WER-0015",
+    "category": "weird_events",
+    "topic": "拿破仑与兔子",
+    "tags": ["拿破仑", "兔子", "轶事"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "拿破仑打猎时，被放出来的兔子追着跑。",
+      "why": "猎人放了约 3000 只兔子，它们反而扑向皇帝。",
+      "deep": "据传拿破仑最后只能躲回马车——这是历史上最有面子的一败。"
+    },
+    "source": { "name": "历史轶事（流传广泛）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "WER-0016",
+    "category": "weird_events",
+    "topic": "第一张自拍",
+    "tags": ["自拍", "1839", "摄影"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "世界上第一张\"自拍\"拍于 1839 年。",
+      "why": "美国摄影师罗伯特·科尼利厄斯给自己拍了张照片。",
+      "deep": "那会儿还没有\"自拍\"这个词，但姿势已经对了。"
+    },
+    "source": { "name": "摄影史记载", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "WER-0017",
+    "category": "weird_events",
+    "topic": "猫市长",
+    "tags": ["猫", "市长", "阿拉斯加"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "美国阿拉斯加有个小镇，猫当过\"市长\"。",
+      "why": "塔基特纳镇的猫\"斯塔布斯\"被选为荣誉市长（吉祥物性质）。",
+      "deep": "它连任多年，还接待过游客。"
+    },
+    "source": { "name": "小镇事件报道", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "WER-0018",
+    "category": "weird_events",
+    "topic": "盲打比赛",
+    "tags": ["打字", "盲打", "比赛"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "\"盲打\"的流行，来自一场打字比赛。",
+      "why": "19 世纪末有人蒙着眼打字获胜，大家才发现不用看键盘。",
+      "deep": "今天你打字不看键盘，用的就是那场比赛的遗产。"
+    },
+    "source": { "name": "打字机史记载", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "WER-0019",
+    "category": "weird_events",
+    "topic": "香烟广告",
+    "tags": ["香烟", "广告", "反转"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "20 世纪中期的香烟广告，号称\"医生推荐\"。",
+      "why": "后来研究证明致癌，广告史出现大反转。",
+      "deep": "今天看那些广告像笑话，当时却真的有人信。"
+    },
+    "source": { "name": "广告史记载", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "WER-0020",
+    "category": "weird_events",
+    "topic": "莱斯特手稿",
+    "tags": ["达芬奇", "手稿", "天价"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "达芬奇的一本笔记手稿，曾被比尔·盖茨以约 3000 万美元买下。",
+      "why": "《莱斯特手稿》用镜像字写着他对水、光、天文的思考。",
+      "deep": "它偶尔出借给博物馆展览——世界上最贵的笔记本之一。"
+    },
+    "source": { "name": "手稿拍卖记录", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "WER-0021",
+    "category": "weird_events",
+    "topic": "中央公园",
+    "tags": ["中央公园", "摩纳哥", "面积"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "纽约中央公园的面积，比整个摩纳哥还大。",
+      "why": "中央公园约 3.4 平方公里，摩纳哥约 2 平方公里。",
+      "deep": "也就是说，一个公园装得下一个国家。"
+    },
+    "source": { "name": "面积数据对比", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "WER-0022",
+    "category": "weird_events",
+    "topic": "西红柿节起源",
+    "tags": ["西红柿节", "起源", "斗殴"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "西班牙西红柿节，据说起源于一场菜市场斗殴。",
+      "why": "1945 年有人吵架时互相扔西红柿，第二年又有人带着西红柿来，就成了传统。",
+      "deep": "一个意外，最后变成了一年一度的节日。"
+    },
+    "source": { "name": "节日起源（流传版本）", "confidence": "widely_accepted" },
+    "related": []
+  }
+]

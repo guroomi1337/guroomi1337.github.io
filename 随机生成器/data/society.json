@@ -1,0 +1,438 @@
+[
+  {
+    "id": "SOC-0001",
+    "category": "society",
+    "subcategory": "社会规则",
+    "topic": "排队",
+    "tags": ["排队", "公平", "规则"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "人类为什么普遍接受\"先来后到\"？",
+      "why": "排队把稀缺资源的分配变成\"看得见的公平\"，降低冲突。",
+      "deep": "但一旦规则被插队打破，愤怒会特别大——因为公平感被破坏了。"
+    },
+    "source": { "name": "社会观察（观点类）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0002",
+    "category": "society",
+    "subcategory": "消费",
+    "topic": "免费浪费",
+    "tags": ["免费", "浪费", "价格"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "为什么越免费的东西越容易被浪费？",
+      "why": "价格是稀缺信号，免费时人们不再珍惜，因为\"成本\"感知消失。",
+      "deep": "自助餐的浪费，就是价格失灵的典型。"
+    },
+    "source": { "name": "行为经济学视角（观点类）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0003",
+    "category": "society",
+    "subcategory": "工作",
+    "topic": "工资保密",
+    "tags": ["工资", "保密", "公平"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "为什么很多公司禁止讨论工资？",
+      "why": "工资透明会暴露不公平，管理者宁愿让它\"神秘\"。",
+      "deep": "但研究显示，透明未必让所有人开心——比较的伤害比想象大。"
+    },
+    "source": { "name": "组织行为观察（观点类）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0004",
+    "category": "society",
+    "subcategory": "网络",
+    "topic": "匿名攻击",
+    "tags": ["匿名", "网络", "攻击"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "网上说话更冲，因为\"代价\"变低了。",
+      "why": "匿名减少社会反馈成本，攻击别人不必承担现实后果。",
+      "deep": "这不是为网暴开脱，而是解释机制。"
+    },
+    "source": { "name": "社会心理学观察", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0005",
+    "category": "society",
+    "subcategory": "消费",
+    "topic": "人气效应",
+    "tags": ["排队", "从众", "人气"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "排队越长，越多人想排——\"人气\"本身会吸引人气。",
+      "why": "人们用别人的选择当信息，形成正反馈。",
+      "deep": "网红店的队伍，一半是味道，一半是信号。"
+    },
+    "source": { "name": "社会观察（观点类）", "confidence": "widely_accepted" },
+    "related": [{ "id": "SOC-0001", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0006",
+    "category": "society",
+    "subcategory": "城市",
+    "topic": "电梯沉默",
+    "tags": ["电梯", "沉默", "城市"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "为什么电梯里大家都不说话？",
+      "why": "陌生人在极近距离共享空间，又无法退出，沉默是降低压力的默契。",
+      "deep": "心理学家称之为\"礼貌的不关注\"。"
+    },
+    "source": { "name": "城市行为观察", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0007",
+    "category": "society",
+    "subcategory": "城市",
+    "topic": "大城市匿名",
+    "tags": ["城市", "陌生人", "孤独"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "在大城市里，你每天会和几百个陌生人擦肩而过，却几乎不认识他们。",
+      "why": "城市规模越大，\"弱连接\"越多，\"强连接\"越少。",
+      "deep": "这是自由，也是孤独。"
+    },
+    "source": { "name": "城市社会学观察", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0008",
+    "category": "society",
+    "subcategory": "工作",
+    "topic": "职业消失",
+    "tags": ["职业", "消失", "身份"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果一个职业突然消失，会发生什么？",
+      "why": "电梯操作员消失后，人们学会了按按钮；行业消失时，技能会转场。",
+      "deep": "真正痛的往往不是职业本身，而是\"身份\"的消失。"
+    },
+    "source": { "name": "社会观察（观点类）", "confidence": "widely_accepted" },
+    "related": [{ "id": "HIS-0003", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0009",
+    "category": "society",
+    "subcategory": "服务业",
+    "topic": "微笑服务",
+    "tags": ["服务", "微笑", "情绪劳动"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "为什么服务行业要\"微笑\"？",
+      "why": "服务业把情绪也变成了劳动的一部分，叫\"情绪劳动\"。",
+      "deep": "它让服务变好，也让服务者更累。"
+    },
+    "source": { "name": "社会学概念（情绪劳动）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0010",
+    "category": "society",
+    "subcategory": "群体行为",
+    "topic": "羊群效应",
+    "tags": ["羊群效应", "群体", "信息"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "跟着别人走，往往不是因为懒，而是因为\"别人可能知道我不知道的事\"。",
+      "why": "在信息不足时，模仿是最便宜的信息来源。",
+      "deep": "羊群效应的另一面：当所有人都在做，错误也会被放大。"
+    },
+    "source": { "name": "行为经济学观察", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "SOC-0011",
+    "category": "society",
+    "topic": "帕金森定律",
+    "tags": ["帕金森定律", "时间", "拖延"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "工作会自动膨胀，占满所有可用时间——帕金森定律。",
+      "why": "给一件事 1 小时，它就花 1 小时；给 3 小时，它就花 3 小时。",
+      "deep": "拖延不全是懒，也可能是时间太多。"
+    },
+    "source": { "name": "管理学观察", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0012",
+    "category": "society",
+    "topic": "手机盾牌",
+    "tags": ["手机", "社交", "私人空间"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "手机不只是工具，还是\"不想社交\"的盾牌。",
+      "why": "在电梯、地铁里低头看手机，其实是给自己划出私人空间。",
+      "deep": "这个功能，可能比手机本身还用得多。"
+    },
+    "source": { "name": "社会观察（观点类）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0013",
+    "category": "society",
+    "topic": "开箱视频",
+    "tags": ["开箱", "消费", "心理"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "开箱视频的魔力：替别人体验，自己零风险。",
+      "why": "大脑对\"未知内容\"的期待和惊喜，看别人开箱也能获得。",
+      "deep": "这也是盲盒流行的心理基础。"
+    },
+    "source": { "name": "消费行为观察", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0014",
+    "category": "society",
+    "topic": "无领导排队",
+    "tags": ["排队", "秩序", "协作"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "没人指挥时，队伍也会自己形成规则。",
+      "why": "排队是\"无领导协作\"的典范——人类很擅长在没有命令时达成默契。",
+      "deep": "下次看到整齐的队伍，可以想想这件事。"
+    },
+    "source": { "name": "社会行为观察", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0015",
+    "category": "society",
+    "topic": "凡勃伦效应",
+    "tags": ["价格", "消费", "身份"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "有些东西越贵，越有人买——这叫凡勃伦效应。",
+      "why": "贵本身成了\"身份信号\"。",
+      "deep": "奢侈品不卖实用，卖的是\"我买得起\"。"
+    },
+    "source": { "name": "消费行为学观察", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0016",
+    "category": "society",
+    "topic": "坏消息传播",
+    "tags": ["坏消息", "传播", "偏见"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "坏消息比好消息传得快，是大脑的出厂设置。",
+      "why": "进化让人类对威胁更敏感。",
+      "deep": "一条负面新闻的传播速度，常常是正面新闻的几倍。"
+    },
+    "source": { "name": "传播学观察", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0017",
+    "category": "society",
+    "topic": "礼貌的不注意",
+    "tags": ["城市", "陌生人", "隐私"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "大城市有看不见的默契：互相装作没看见。",
+      "why": "这保护了所有人的隐私，社会学家叫它\"礼貌的不注意\"。",
+      "deep": "纽约人\"礼貌地不看你\"，其实是一种尊重。"
+    },
+    "source": { "name": "城市社会学（Goffman）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0018",
+    "category": "society",
+    "topic": "恐怖与多巴胺",
+    "tags": ["恐怖", "都市传说", "刺激"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "恐怖故事让人又怕又想看。",
+      "why": "安全环境下的恐惧刺激，会释放多巴胺。",
+      "deep": "过山车和鬼故事，用的是同一个原理。"
+    },
+    "source": { "name": "心理学观察", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0019",
+    "category": "society",
+    "topic": "限时抢购",
+    "tags": ["限时", "稀缺", "冲动消费"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "限时优惠制造稀缺感，稀缺感催生冲动。",
+      "why": "\"错过\"比\"亏钱\"更难受（损失厌恶）。",
+      "deep": "倒计时的数字，是给大脑看的开关。"
+    },
+    "source": { "name": "行为经济学观察", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0020",
+    "category": "society",
+    "topic": "陌生人真话",
+    "tags": ["陌生人", "倾诉", "效应"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "火车上的陌生人，反而容易听到你的真心话。",
+      "why": "没有后续压力，暴露的成本很低。",
+      "deep": "这是\"陌生人效应\"：越远，越敢说。"
+    },
+    "source": { "name": "社会心理观察", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0021",
+    "category": "society",
+    "topic": "打卡制度",
+    "tags": ["打卡", "管理", "信任"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "打卡制度，本质上是不信任你。",
+      "why": "它衡量的是\"在不在\"，而不是\"做没做\"。",
+      "deep": "方便，但常常把注意力引向错误的方向。"
+    },
+    "source": { "name": "组织行为观察（观点类）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "SOC-0022",
+    "category": "society",
+    "topic": "大城市不麻烦人",
+    "tags": ["城市", "互助", "礼貌"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "越大的城市，人们越不愿意麻烦别人。",
+      "why": "互助成本高、关系密度低，\"不麻烦\"成了礼貌。",
+      "deep": "小地方互相帮忙，大城市互相尊重——各有各的温度。"
+    },
+    "source": { "name": "社会观察（观点类）", "confidence": "widely_accepted" },
+    "related": []
+  }
+]

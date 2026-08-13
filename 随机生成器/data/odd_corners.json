@@ -1,0 +1,394 @@
+[
+  {
+    "id": "ODD-0001",
+    "category": "odd_corners",
+    "subcategory": "奇怪博物馆",
+    "topic": "失恋博物馆",
+    "tags": ["博物馆", "失恋", "克罗地亚"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "克罗地亚有一家\"失恋博物馆\"，展品全是分手后的遗物。",
+      "why": "每件展品都配一段故事：情书、婚纱、钥匙、甚至一个开瓶器。",
+      "deep": "它让人看见：失恋也是值得被收藏的经历。"
+    },
+    "source": { "name": "失恋博物馆公开资料", "confidence": "verified" },
+    "related": [{ "id": "ODD-0002", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "ODD-0002",
+    "category": "odd_corners",
+    "subcategory": "奇怪博物馆",
+    "topic": "失败博物馆",
+    "tags": ["博物馆", "失败", "瑞典"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "瑞典有一家\"失败博物馆\"，专门收藏失败的产品。",
+      "why": "从高露洁冷冻速食到谷歌眼镜，全是\"没成\"的东西。",
+      "deep": "它的标语大概可以概括为：失败也是创新史的一部分。"
+    },
+    "source": { "name": "失败博物馆（Museum of Failure）公开资料", "confidence": "verified" },
+    "related": [{ "id": "ODD-0001", "type": "SIMILAR" }, { "id": "ODD-0003", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "ODD-0003",
+    "category": "odd_corners",
+    "subcategory": "奇怪博物馆",
+    "topic": "糟糕艺术博物馆",
+    "tags": ["博物馆", "糟糕艺术", "波士顿"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "美国波士顿有一家\"糟糕艺术博物馆\"，只收藏画得特别认真的烂画。",
+      "why": "创始人的标准是：不是故意搞怪，而是真心觉得好看却翻车。",
+      "deep": "它证明了一件事：认真失败，也是艺术的一种。"
+    },
+    "source": { "name": "糟糕艺术博物馆（Museum of Bad Art）公开资料", "confidence": "verified" },
+    "related": [{ "id": "ODD-0002", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "ODD-0004",
+    "category": "odd_corners",
+    "subcategory": "奇怪节日",
+    "topic": "西红柿节",
+    "tags": ["节日", "西红柿", "西班牙"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "西班牙的西红柿节，每年要扔出上百吨西红柿。",
+      "why": "布尼奥尔小镇每年 8 月最后一个周三，全城互扔熟透的西红柿。",
+      "deep": "规则只有一条：扔之前先把西红柿捏烂，不然会砸伤人。"
+    },
+    "source": { "name": "节日公开资料", "confidence": "verified" },
+    "related": [{ "id": "ODD-0005", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "ODD-0005",
+    "category": "odd_corners",
+    "subcategory": "奇怪比赛",
+    "topic": "滚奶酪节",
+    "tags": ["节日", "奶酪", "英国"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "英国的滚奶酪节：追着一块 3 公斤的奶酪从山坡上滚下去。",
+      "why": "库珀山每年举办，参赛者追奶酪狂奔，摔得人仰马翻。",
+      "deep": "官方奖品就是那块奶酪——以及一身淤青。"
+    },
+    "source": { "name": "库珀山滚奶酪节公开资料", "confidence": "verified" },
+    "related": [{ "id": "ODD-0004", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "ODD-0006",
+    "category": "odd_corners",
+    "subcategory": "奇怪比赛",
+    "topic": "扔手机大赛",
+    "tags": ["比赛", "扔手机", "芬兰"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "芬兰真的办过\"扔手机世界锦标赛\"。",
+      "why": "从 2000 年起，选手比拼谁把手机扔得又远又准。",
+      "deep": "主办方的说法：这是给所有人一个\"把手机扔了\"的正当理由。"
+    },
+    "source": { "name": "赛事公开报道", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "ODD-0007",
+    "category": "odd_corners",
+    "subcategory": "主题小镇",
+    "topic": "外星人欢迎站",
+    "tags": ["外星人", "小镇", "51区"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "美国内华达州有一个\"外星人欢迎站\"。",
+      "why": "51 区附近的小镇以 UFO 为主题，把\"外星人\"做成了一门生意。",
+      "deep": "它真的存在，而且营业得很认真。"
+    },
+    "source": { "name": "小镇公开资料", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "ODD-0008",
+    "category": "odd_corners",
+    "subcategory": "奇怪服务",
+    "topic": "代人道歉",
+    "tags": ["道歉", "服务", "日本"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "日本有\"代人道歉\"的服务公司。",
+      "why": "为不好意思亲自道歉的人提供专业致歉，还分鞠躬角度套餐。",
+      "deep": "这算不算\"情绪外包\"？——反正生意是真的。"
+    },
+    "source": { "name": "服务行业报道", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "ODD-0009",
+    "category": "odd_corners",
+    "topic": "最短航线",
+    "tags": ["航线", "最短", "苏格兰"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "世界上最短的商业航线只有约 1.7 公里，飞 47 秒。",
+      "why": "苏格兰韦斯特雷到帕帕韦斯特雷的航线，比很多出租车还短。",
+      "deep": "遇到顺风，可能 1 分钟不到就落地。"
+    },
+    "source": { "name": "航空业公开资料", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "ODD-0010",
+    "category": "odd_corners",
+    "topic": "末日种子库",
+    "tags": ["种子库", "挪威", "备份"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "挪威的\"末日种子库\"，存着全球农作物的备份。",
+      "why": "它建在北极圈的山洞里，温度常年零下。",
+      "deep": "目的很简单：就算外面出事，种子还在。"
+    },
+    "source": { "name": "斯瓦尔巴种子库公开资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "ODD-0011",
+    "category": "odd_corners",
+    "topic": "水下邮局",
+    "tags": ["邮局", "水下", "瓦努阿图"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "瓦努阿图有一家水下邮局，寄信要潜水。",
+      "why": "邮筒设在海底，潜水者用防水明信片投递。",
+      "deep": "工作人员还会在水下给明信片盖戳。"
+    },
+    "source": { "name": "旅游与邮政报道", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "ODD-0012",
+    "category": "odd_corners",
+    "topic": "猫岛",
+    "tags": ["猫岛", "日本", "田代岛"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "日本的田代岛，猫比人还多。",
+      "why": "岛上居民把猫当守护神，禁止伤害它们。",
+      "deep": "游客多了之后，猫也成了岛上最重要的\"居民\"。"
+    },
+    "source": { "name": "田代岛报道", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "ODD-0013",
+    "category": "odd_corners",
+    "topic": "撒尿小童",
+    "tags": ["撒尿小童", "布鲁塞尔", "衣服"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "布鲁塞尔的\"撒尿小童\"，有几百套衣服。",
+      "why": "世界各国会送它衣服，换装成了传统。",
+      "deep": "它还有自己的衣橱博物馆。"
+    },
+    "source": { "name": "布鲁塞尔城市资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "ODD-0014",
+    "category": "odd_corners",
+    "topic": "娃娃岛",
+    "tags": ["娃娃岛", "传说", "墨西哥"],
+    "factual_type": "LEGEND",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "dark",
+    "layers": {
+      "teaser": "墨西哥的\"娃娃岛\"，树上挂满旧娃娃——来历是传说。",
+      "why": "据说岛主为纪念溺亡的女孩挂上娃娃，后来越挂越多。",
+      "deep": "故事有多个版本，信不信由你；但岛确实挂满了娃娃。"
+    },
+    "source": { "name": "旅游传说（版本不一）", "confidence": "legend" },
+    "related": []
+  },
+  {
+    "id": "ODD-0015",
+    "category": "odd_corners",
+    "topic": "人骨教堂",
+    "tags": ["人骨教堂", "捷克", "建筑"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "dark",
+    "layers": {
+      "teaser": "捷克有座教堂，内部装饰用了数万具骸骨。",
+      "why": "黑死病后墓地不够用，骸骨被移进教堂做成装饰。",
+      "deep": "它叫塞德莱茨人骨教堂，气氛诡异但工艺惊人。"
+    },
+    "source": { "name": "建筑与历史资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "ODD-0016",
+    "category": "odd_corners",
+    "topic": "最窄街道",
+    "tags": ["街道", "最窄", "德国"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "德国有条\"最窄街道\"，最窄处只有 31 厘米。",
+      "why": "位于罗伊特林根，两人并排走都困难。",
+      "deep": "胖一点的人可能需要侧身。"
+    },
+    "source": { "name": "地名与建筑资料", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "ODD-0017",
+    "category": "odd_corners",
+    "topic": "背老婆大赛",
+    "tags": ["比赛", "背老婆", "芬兰"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "芬兰有\"背老婆世界锦标赛\"。",
+      "why": "男士背着伴侣跑过障碍赛道，最快者夺冠。",
+      "deep": "冠军的奖品之一，是老婆体重等重的啤酒。"
+    },
+    "source": { "name": "赛事公开资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "ODD-0018",
+    "category": "odd_corners",
+    "topic": "猫站长",
+    "tags": ["猫站长", "小玉", "日本"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "日本和歌山电铁有个\"猫站长\"，叫小玉。",
+      "why": "它本来是流浪猫，被任命为车站\"站长\"后带火了整条线路。",
+      "deep": "它去世后，车站还给它立了纪念像。"
+    },
+    "source": { "name": "和歌山电铁公开资料", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "ODD-0019",
+    "category": "odd_corners",
+    "topic": "南极ATM",
+    "tags": ["南极", "ATM", "麦克默多"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "南极的麦克默多站，有一台自动取款机。",
+      "why": "给科考人员取现金用——那里确实有少量消费需求。",
+      "deep": "它可能是世界上最\"孤独\"的 ATM。"
+    },
+    "source": { "name": "南极科考站资料", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "ODD-0020",
+    "category": "odd_corners",
+    "topic": "猴子自助餐节",
+    "tags": ["猴子", "节日", "泰国"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "泰国有个\"猴子自助餐节\"，摆满水果请猴子吃。",
+      "why": "当地把猴子当守护神，每年办宴席感谢它们。",
+      "deep": "几吨水果端上来，猴子们吃得比人还正式。"
+    },
+    "source": { "name": "节庆报道", "confidence": "verified" },
+    "related": []
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "id": "QUO-0001",
+    "category": "quotes",
+    "subcategory": "诗词",
+    "topic": "苏轼",
+    "tags": ["苏轼", "人生", "诗句"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "人生如逆旅，我亦是行人。——苏轼《临江仙·送钱穆父》",
+      "why": "人生像旅店，我们都是过客。",
+      "deep": "这句话写于送别，读起来却像是对所有人的宽慰。"
+    },
+    "source": { "name": "《临江仙·送钱穆父》", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0002",
+    "category": "quotes",
+    "subcategory": "现代文学",
+    "topic": "王小波",
+    "tags": ["王小波", "诗意", "世界"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "一个人只拥有此生此世是不够的，他还应该拥有诗意的世界。",
+      "why": "此句常见引用为王小波所说，具体篇目有不同说法。",
+      "deep": "出处待考，但这句话本身值得停下来读一遍。"
+    },
+    "source": { "name": "王小波（常见引用，出处待考）", "confidence": "disputed" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0003",
+    "category": "quotes",
+    "subcategory": "文学",
+    "topic": "加缪",
+    "tags": ["加缪", "夏天", "冬天"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "在隆冬，我终于知道，我身上有一个不可战胜的夏天。——加缪",
+      "why": "常见译文出自加缪作品，原文细节在不同版本中有出入。",
+      "deep": "意思大概是人心里总有一部分，冬天冻不坏。"
+    },
+    "source": { "name": "加缪（常见引用，译文有版本差异）", "confidence": "disputed" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0004",
+    "category": "quotes",
+    "subcategory": "文学",
+    "topic": "马尔克斯",
+    "tags": ["马尔克斯", "灿烂", "寂寞"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "生命中曾经有过的所有灿烂，终究都要用寂寞来偿还。——马尔克斯",
+      "why": "常见引用出自《百年孤独》，中文译法有多种版本。",
+      "deep": "读它的人，往往在某个深夜突然想起这句话。"
+    },
+    "source": { "name": "马尔克斯（常见引用，译本有差异）", "confidence": "disputed" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0005",
+    "category": "quotes",
+    "subcategory": "哲学",
+    "topic": "罗素",
+    "tags": ["罗素", "参差多态", "幸福"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "参差多态乃是幸福的本源。——罗素（常见引用）",
+      "why": "大意：世界正是因为不一样，才值得活。",
+      "deep": "常见中文译法出处为《幸福之路》相关段落，具体措辞因译本而异。"
+    },
+    "source": { "name": "罗素（常见引用，译本有差异）", "confidence": "disputed" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0006",
+    "category": "quotes",
+    "subcategory": "原创",
+    "topic": "好奇心",
+    "tags": ["原创", "好奇心", "收藏"],
+    "factual_type": "OPINION",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "你收藏的每一件奇怪的东西，都是你还没说出口的好奇心。",
+      "why": "原创句子，不冒充任何名人。",
+      "deep": "如果你刚收藏了点什么——对，说的就是你。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0007",
+    "category": "quotes",
+    "subcategory": "原创",
+    "topic": "无聊",
+    "tags": ["原创", "无聊", "好奇心"],
+    "factual_type": "OPINION",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "无聊不是时间的空，是好奇心的门缝。",
+      "why": "原创句子。",
+      "deep": "你现在在这里，可能就是从那道门缝钻进来的。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0008",
+    "category": "quotes",
+    "subcategory": "原创",
+    "topic": "万花筒",
+    "tags": ["原创", "万花筒", "世界"],
+    "factual_type": "OPINION",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "所谓万花筒，就是同一个世界里，总有你没转到的角度。",
+      "why": "原创句子。",
+      "deep": "这个网站想做的，就是帮你转一下。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0009",
+    "category": "quotes",
+    "subcategory": "原创",
+    "topic": "无用知识",
+    "tags": ["原创", "知识", "无用"],
+    "factual_type": "OPINION",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "有些知识没有用，但知道了它们，世界会大一点点。",
+      "why": "原创句子。",
+      "deep": "所以这里的东西大多\"没用\"——这恰恰是它们有用的方式。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0010",
+    "category": "quotes",
+    "subcategory": "原创",
+    "topic": "下一次",
+    "tags": ["原创", "下一次", "未知"],
+    "factual_type": "OPINION",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "唯一可以确定的，是下一个永远不确定。",
+      "why": "原创句子。",
+      "deep": "这句话本身就是这个网站。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "QUO-0011",
+    "category": "quotes",
+    "topic": "王阳明",
+    "tags": ["王阳明", "心学", "花"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "你未看此花时，此花与汝心同归于寂。——王阳明",
+      "why": "出自《传习录》，大意：你没看花时，花和你的心一起静着。",
+      "deep": "你来看花时，花的颜色便一时明白起来——心与物互相照亮。"
+    },
+    "source": { "name": "王阳明《传习录》", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "QUO-0012",
+    "category": "quotes",
+    "topic": "鲁迅",
+    "tags": ["鲁迅", "远方", "人们"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "无穷的远方，无数的人们，都和我有关。——鲁迅",
+      "why": "出自《且介亭杂文末集·这也是生活》。",
+      "deep": "这句话今天读，像是在说互联网上的每一个人。"
+    },
+    "source": { "name": "鲁迅《这也是生活》", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "QUO-0013",
+    "category": "quotes",
+    "topic": "顾城",
+    "tags": ["顾城", "黑夜", "眼睛"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "黑夜给了我黑色的眼睛，我却用它寻找光明。——顾城",
+      "why": "出自顾城短诗《一代人》。",
+      "deep": "全诗只有这两行，却写尽了一个时代。"
+    },
+    "source": { "name": "顾城《一代人》", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "QUO-0014",
+    "category": "quotes",
+    "topic": "木心",
+    "tags": ["木心", "生活", "状态"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "生活的最佳状态是冷冷清清的风风火火。——木心",
+      "why": "木心语录常见引用，具体出处有不同说法。",
+      "deep": "外表安静，心里热闹——这大概也是一种理想。"
+    },
+    "source": { "name": "木心（常见引用，出处待考）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "QUO-0015",
+    "category": "quotes",
+    "topic": "泰戈尔",
+    "tags": ["泰戈尔", "世界", "歌"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "世界以痛吻我，要我报之以歌。——泰戈尔（常见译文）",
+      "why": "常见中文译文，与《飞鸟集》相关段落有关，措辞因译本而异。",
+      "deep": "很多人引用它，是因为它在最疼的时候，给了人一个姿态。"
+    },
+    "source": { "name": "泰戈尔（常见引用，译文有差异）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "QUO-0016",
+    "category": "quotes",
+    "topic": "辛波斯卡",
+    "tags": ["辛波斯卡", "诗歌", "荒谬"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "我偏爱写诗的荒谬，胜过不写诗的荒谬。——辛波斯卡",
+      "why": "出自《种种可能》，中文译文有多个版本。",
+      "deep": "两个选项都荒谬，但至少有一个更有意思。"
+    },
+    "source": { "name": "辛波斯卡《种种可能》（常见译文）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "QUO-0017",
+    "category": "quotes",
+    "topic": "尼采",
+    "tags": ["尼采", "杀不死", "强大"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "那些杀不死我的，必使我更强大。——尼采（常见译文）",
+      "why": "常见译文出自《偶像的黄昏》，中文措辞有多个版本。",
+      "deep": "提醒：这句话不能反过来用——不是所有伤害都值得感激。"
+    },
+    "source": { "name": "尼采（常见引用，译文有差异）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "QUO-0018",
+    "category": "quotes",
+    "topic": "帕斯卡",
+    "tags": ["帕斯卡", "芦苇", "思想"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "人是一根会思想的芦苇。——帕斯卡（常见译文）",
+      "why": "出自《思想录》，中文译文有多个版本。",
+      "deep": "宇宙可以轻易碾碎芦苇，但芦苇知道自己被碾碎——这就是人的尊严。"
+    },
+    "source": { "name": "帕斯卡《思想录》（常见译文）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "QUO-0019",
+    "category": "quotes",
+    "topic": "塞内加",
+    "tags": ["塞内加", "时间", "浪费"],
+    "factual_type": "FACT",
+    "presentation": "ONE_LINER",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "我们不是缺乏时间，而是浪费了太多时间。——塞内加（常见引用）",
+      "why": "古罗马哲学家塞内加的常见引用，具体出处有不同说法。",
+      "deep": "两千年前的话，今天读起来像在说手机。"
+    },
+    "source": { "name": "塞内加（常见引用，出处待考）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "QUO-0020",
+    "category": "quotes",
+    "topic": "好奇心",
+    "tags": ["原创", "世界", "好奇心"],
+    "factual_type": "OPINION",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "世界很大，但你的好奇心更大。",
+      "why": "原创句子。",
+      "deep": "不然你不会出现在这里。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "QUO-0021",
+    "category": "quotes",
+    "topic": "按钮",
+    "tags": ["原创", "按钮", "此刻"],
+    "factual_type": "OPINION",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "你按下这个按钮的瞬间，已经和上一秒的你不一样了。",
+      "why": "原创句子。",
+      "deep": "因为你又多知道了一件东西。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "QUO-0022",
+    "category": "quotes",
+    "topic": "奇怪",
+    "tags": ["原创", "奇怪", "世界"],
+    "factual_type": "OPINION",
+    "presentation": "ONE_LINER",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "whimsical",
+    "layers": {
+      "teaser": "奇怪的不是世界，是终于有人告诉你它很奇怪。",
+      "why": "原创句子。",
+      "deep": "而你从此再也无法假装不知道。"
+    },
+    "source": null,
+    "related": []
+  }
+]

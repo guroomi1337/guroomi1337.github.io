@@ -1,0 +1,438 @@
+[
+  {
+    "id": "LAN-0001",
+    "category": "language",
+    "subcategory": "无法直译",
+    "topic": "木漏れ日",
+    "tags": ["日语", "无法直译", "光影"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "日语\"木漏れ日\"（komorebi）指阳光穿过树叶洒下的光影。",
+      "why": "日语里这类\"一个词画一幅画\"的词很多，翻译成别的语言往往要一句话。",
+      "deep": "中文里\"斑驳树影\"算接近，但少了那份\"漏\"的动感。"
+    },
+    "source": { "name": "语言文化通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1.1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0002",
+    "category": "language",
+    "subcategory": "词源",
+    "topic": "Wednesday",
+    "tags": ["英语", "星期三", "词源", "奥丁"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "英语\"星期三\"（Wednesday）来自北欧神奥丁（Woden）。",
+      "why": "古英语把\"奥丁之日\"（Woden's day）传了下来。",
+      "deep": "星期四 Thor、星期五 Frigg，也都来自北欧诸神。"
+    },
+    "source": { "name": "英语词源学", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0003",
+    "category": "language",
+    "subcategory": "消失的语言",
+    "topic": "语言消失",
+    "tags": ["语言", "消失", "濒危"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "地球上每两周左右，就可能有一种语言消失。",
+      "why": "语言学家估计全球现存约 7000 种语言，其中很多只有几十个老人在说。",
+      "deep": "语言消失后，消失的还有它承载的世界观和知识。"
+    },
+    "source": { "name": "语言学研究（濒危语言数据）", "confidence": "widely_accepted" },
+    "related": [{ "id": "LOS-0002", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0004",
+    "category": "language",
+    "subcategory": "无法直译",
+    "topic": "幸灾乐祸",
+    "tags": ["德语", "无法直译", "情绪"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "德语\"Schadenfreude\"（因别人的不幸而快乐）在英语里没有单字对应，只好直接借用。",
+      "why": "有些情绪被某个文化\"命名\"了，别的语言就得绕圈子。",
+      "deep": "这类词往往特别精准，说明命名本身就是一种看见。"
+    },
+    "source": { "name": "词汇学通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0005",
+    "category": "language",
+    "subcategory": "汉语",
+    "topic": "量词",
+    "tags": ["量词", "汉语", "分类"],
+    "factual_type": "SCIENCE",
+    "presentation": "Q_A",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "为什么量词那么复杂：\"一头牛、一匹马、一条鱼\"？",
+      "why": "汉语量词历史悠久，不同形状、用途用不同量词，是\"分类\"的痕迹。",
+      "deep": "日语韩语也保留了类似的量词体系。"
+    },
+    "source": { "name": "汉语语言学通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0006",
+    "category": "language",
+    "subcategory": "文字演化",
+    "topic": "字母A",
+    "tags": ["字母", "象形", "牛"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "字母 A 最初是牛的象形。",
+      "why": "古埃及的象形文字里表示\"牛\"的符号，经腓尼基人简化，成了字母 A 的祖先。",
+      "deep": "它转了个 180 度，从\"牛头\"变成了\"A\"。"
+    },
+    "source": { "name": "文字学史", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0007",
+    "category": "language",
+    "subcategory": "方言",
+    "topic": "汉语方言",
+    "tags": ["方言", "粤语", "闽南语", "差异"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "汉语方言之间的差异，可能比某些欧洲语言之间还大。",
+      "why": "粤语、闽南语、吴语等保留了古汉语的不同面貌，彼此无法互通。",
+      "deep": "\"普通话\"是为了交流而推行的共同语。"
+    },
+    "source": { "name": "汉语方言学", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0008",
+    "category": "language",
+    "subcategory": "语言起源",
+    "topic": "语言起源",
+    "tags": ["语言", "起源", "未解"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "人类为什么会有语言，至今没有定论。",
+      "why": "有\"手势起源说\"\"唱歌起源说\"\"社交梳理说\"等多种假说。",
+      "deep": "语言可能是人类最古老又最说不清的技术。"
+    },
+    "source": { "name": "语言起源研究综述", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0009",
+    "category": "language",
+    "subcategory": "奇怪语法",
+    "topic": "绝对方向语言",
+    "tags": ["方向", "语言", "东南西北"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "世界上有些语言没有\"左\"和\"右\"，只有东南西北。",
+      "why": "澳大利亚的 Guugu Yimithirr 语用绝对方向描述位置，说话者随时知道自己在哪个方向。",
+      "deep": "说这种语言的人，方向感普遍强得惊人。"
+    },
+    "source": { "name": "语言学田野研究（Guugu Yimithirr）", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0010",
+    "category": "language",
+    "subcategory": "词源",
+    "topic": "gobbledygook",
+    "tags": ["gobbledygook", "词源", "英语"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "英语\"gobbledygook\"形容又长又难懂的话，这个词本身就很形象。",
+      "why": "1944 年，美国议员莫里·梅弗里克造了它，说冗长文件听起来像火鸡叫（gobble）。",
+      "deep": "顺带一提，\"Maverick\"后来也成了\"特立独行者\"的代名词。"
+    },
+    "source": { "name": "英语词源记载", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LAN-0011",
+    "category": "language",
+    "topic": "土耳其语长词",
+    "tags": ["土耳其语", "黏着语", "长词"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "土耳其语有个超长单词，号称可以无限加长。",
+      "why": "它是\"黏着语\"，词缀可以一个接一个往上加。",
+      "deep": "网络流传的最长纪录有一百多个字母。"
+    },
+    "source": { "name": "语言类型学通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "LAN-0012",
+    "category": "language",
+    "topic": "您字",
+    "tags": ["英语", "敬语", "您"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "英语没有区分\"你\"和\"您\"的单字。",
+      "why": "英语靠语气和词组表达客气，比如 would、please。",
+      "deep": "语言塑造关系，关系也塑造语言。"
+    },
+    "source": { "name": "语言对比通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "LAN-0013",
+    "category": "language",
+    "topic": "加油",
+    "tags": ["加油", "词源", "汉语"],
+    "factual_type": "SCIENCE",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "\"加油\"最早可能来自给油灯添油。",
+      "why": "给灯加油=让它继续亮，引申为鼓励；也有说法与马车、油坊有关。",
+      "deep": "词源众说纷纭，没有唯一公认答案。"
+    },
+    "source": { "name": "汉语词源（来源有争议）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "LAN-0014",
+    "category": "language",
+    "topic": "世界语",
+    "tags": ["世界语", "人造语言", "Esperanto"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "世界语（Esperanto）是一种人造语言，1887 年发布。",
+      "why": "它语法规则几乎没有例外，学起来很快。",
+      "deep": "今天世界各地仍有人在学、在说。"
+    },
+    "source": { "name": "语言史通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LAN-0015",
+    "category": "language",
+    "topic": "biáng",
+    "tags": ["biáng", "汉字", "笔画"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "汉字\"一\"只有一画，而\"biáng\"有 50 多画。",
+      "why": "陕西名小吃\"biáng biáng 面\"的字，是汉字笔画冠军的候选。",
+      "deep": "这个字主要靠口口相传，字典都很难收录。"
+    },
+    "source": { "name": "方言字记载（笔画数有不同说法）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "LAN-0016",
+    "category": "language",
+    "topic": "好字",
+    "tags": ["汉字", "好", "字形"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "汉字\"好\"由\"女\"和\"子\"组成。",
+      "why": "传统解释认为它反映古人对\"好\"的理解（女子有子为\"好\"），属于常见训诂说法。",
+      "deep": "字形解释常有多种版本，这算流传最广的一种。"
+    },
+    "source": { "name": "汉字字源（说法不一）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "LAN-0017",
+    "category": "language",
+    "topic": "Goodbye",
+    "tags": ["Goodbye", "词源", "英语"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "英语 goodbye 是\"God be with you（上帝与你同在）\"的缩写。",
+      "why": "16 世纪人们告别时说 God be with ye，后来缩成了 goodbye。",
+      "deep": "所以每次说再见，其实都在说一句祝福。"
+    },
+    "source": { "name": "英语词源学", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LAN-0018",
+    "category": "language",
+    "topic": "OK",
+    "tags": ["OK", "缩写", "词源"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "\"OK\"只有两个字母，却几乎全世界通用。",
+      "why": "1839 年它作为\"oll korrect\"（all correct 的恶搞拼写）出现，后来爆红。",
+      "deep": "它被称为美国对语言的最大贡献之一（起源仍有讨论）。"
+    },
+    "source": { "name": "英语词源（起源有不同说法）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "LAN-0019",
+    "category": "language",
+    "topic": "星期与星体",
+    "tags": ["星期", "Sunday", "词源"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "英语 Sunday 是\"太阳之日\"，Monday 是\"月亮之日\"。",
+      "why": "西方星期名称来自太阳、月亮和行星。",
+      "deep": "汉语用数字命名星期，英语用星体命名——两条不同的路。"
+    },
+    "source": { "name": "词源学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LAN-0020",
+    "category": "language",
+    "topic": "手语",
+    "tags": ["手语", "语言", "语法"],
+    "factual_type": "SCIENCE",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "手语不是手势比划，它有完整的语法。",
+      "why": "各国手语各不相同，甚至有自己的\"方言\"。",
+      "deep": "它和口语一样，是真正的自然语言。"
+    },
+    "source": { "name": "语言学研究", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LAN-0021",
+    "category": "language",
+    "topic": "文字与语言",
+    "tags": ["文字", "语言", "历史"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "人类说话至少几万年，文字只有几千年。",
+      "why": "几乎所有语言都是先有声音后有文字，很多语言至今没有文字。",
+      "deep": "文字是语言的\"照片\"，不是语言本身。"
+    },
+    "source": { "name": "语言学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LAN-0022",
+    "category": "language",
+    "topic": "冰岛语",
+    "tags": ["冰岛语", "古语", "变化小"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "冰岛人能读懂 800 年前的古冰岛语。",
+      "why": "冰岛语变化极小，因为岛国孤立，还刻意保护。",
+      "deep": "他们读古代《埃达》和读现代报纸差不多。"
+    },
+    "source": { "name": "语言史通识", "confidence": "widely_accepted" },
+    "related": []
+  }
+]
