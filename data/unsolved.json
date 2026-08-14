@@ -1,0 +1,394 @@
+[
+  {
+    "id": "UNS-0001",
+    "category": "unsolved",
+    "subcategory": "未解手稿",
+    "topic": "伏尼契手稿",
+    "tags": ["伏尼契手稿", "未解", "天书"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "伏尼契手稿：一本约 600 年前的\"天书\"，至今无人读懂。",
+      "why": "它用没人认识的文字写成，配着奇怪的植物和星象插图。",
+      "deep": "有人说它是密码，有人说它是骗局，也有人说它只是某人的异想天开——至今没有定论。"
+    },
+    "source": { "name": "伏尼契手稿研究（碳定年）", "confidence": "verified" },
+    "related": [{ "id": "UNS-0004", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "UNS-0002",
+    "category": "unsolved",
+    "subcategory": "神秘声音",
+    "topic": "陶斯之声",
+    "tags": ["陶斯之声", "声音", "未解"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "美国新墨西哥州陶斯小镇，部分居民持续听到一种低频嗡鸣，来源不明。",
+      "why": "它被称为\"陶斯之声\"，只有部分人能听到，测量仪器却很难捕捉。",
+      "deep": "有人说是工业噪声，有人说是地下活动——至今没有公认答案。"
+    },
+    "source": { "name": "陶斯之声报道（来源未确认）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "UNS-0003",
+    "category": "unsolved",
+    "subcategory": "幽灵船",
+    "topic": "玛丽·赛勒斯特号",
+    "tags": ["幽灵船", "悬案", "海洋"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "玛丽·赛勒斯特号被发现时，船员全部消失，货物完好。",
+      "why": "1872 年这艘船在大西洋上被另一艘船发现，救生艇不见了，但船还能开。",
+      "deep": "至今没有公认解释——它是航海史上最著名的悬案之一。"
+    },
+    "source": { "name": "航海史档案", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "UNS-0004",
+    "category": "unsolved",
+    "subcategory": "密码",
+    "topic": "比尔斯密码",
+    "tags": ["比尔斯密码", "宝藏", "未解"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "比尔斯密码：一份声称埋藏宝藏的密文，至今无人破解。",
+      "why": "19 世纪出版的小册子声称找到了藏宝地点，但密文一直解不开。",
+      "deep": "也有人认为它从头到尾是个骗局——但\"是真是假\"本身也成了谜。"
+    },
+    "source": { "name": "密码学史（真伪有争议）", "confidence": "disputed" },
+    "related": [{ "id": "UNS-0001", "type": "SIMILAR" }, { "id": "TEC-0007", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "UNS-0005",
+    "category": "unsolved",
+    "subcategory": "雕塑",
+    "topic": "Kryptos",
+    "tags": ["Kryptos", "雕塑", "密文"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "美国中情局门口的雕塑 Kryptos，刻着四段密文，最后一段至今未解。",
+      "why": "雕塑家桑伯恩设计了它，前三段已被破解，第四段 97 个字符仍是谜。",
+      "deep": "雕塑家本人说过，答案只有他自己知道——但他已经不在人世。"
+    },
+    "source": { "name": "Kryptos 雕塑公开资料", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "UNS-0006",
+    "category": "unsolved",
+    "subcategory": "考古",
+    "topic": "哥斯达黎加石球",
+    "tags": ["石球", "哥斯达黎加", "考古"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "哥斯达黎加丛林里的巨型石球，是谁造的、为什么造，至今没有定论。",
+      "why": "数百个石球大小不一、打磨极圆，年代约在公元 600-1500 年之间。",
+      "deep": "它们是前哥伦布时期的杰作，但用途成谜。"
+    },
+    "source": { "name": "考古学资料（用途未定）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "UNS-0007",
+    "category": "unsolved",
+    "subcategory": "传说辨析",
+    "topic": "亚特兰蒂斯",
+    "tags": ["亚特兰蒂斯", "传说", "柏拉图"],
+    "factual_type": "LEGEND",
+    "presentation": "MYTHBUST",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "亚特兰蒂斯最早出自柏拉图的著作——它可能是寓言，也可能是真实。",
+      "why": "柏拉图把它描述为沉没的文明，但考古上没有任何确凿证据。",
+      "deep": "这属于\"传说\"类内容：可以相信它很美，但别把它当史实。"
+    },
+    "source": { "name": "柏拉图《克里提亚斯》（传说辨析）", "confidence": "legend" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "UNS-0008",
+    "category": "unsolved",
+    "subcategory": "古迹",
+    "topic": "纳斯卡线条",
+    "tags": ["纳斯卡", "线条", "用途"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "秘鲁纳斯卡沙漠的巨型线条，只有从天上才能看清——用途至今有争议。",
+      "why": "主流假说包括天文历法、宗教仪式道路，甚至\"献给神的水渠\"。",
+      "deep": "外星人假说最出名，但考古学家普遍认为是纳斯卡人自己的作品。"
+    },
+    "source": { "name": "纳斯卡线条考古研究", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "UNS-0009",
+    "category": "unsolved",
+    "topic": "百慕大",
+    "tags": ["百慕大", "三角", "辨析"],
+    "factual_type": "FACT",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "百慕大三角的\"神秘失踪\"，统计上其实并不异常。",
+      "why": "那片海域交通繁忙、天气多变，事故率并不高于其他类似海域。",
+      "deep": "\"神秘\"更多来自媒体放大——但这不影响它成为经典话题。"
+    },
+    "source": { "name": "海洋安全统计与研究", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "UNS-0010",
+    "category": "unsolved",
+    "topic": "水晶头骨",
+    "tags": ["水晶头骨", "赝品", "传说"],
+    "factual_type": "FACT",
+    "presentation": "MYTHBUST",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "著名的\"水晶头骨\"，大部分被证明是近代制品。",
+      "why": "显微镜下能看到机器打磨痕迹，与古代工艺不符。",
+      "deep": "但\"假文物\"本身也成了故事的一部分。"
+    },
+    "source": { "name": "博物馆与考古检验记录", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "UNS-0011",
+    "category": "unsolved",
+    "topic": "开膛手杰克",
+    "tags": ["开膛手杰克", "悬案", "身份"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "1888 年伦敦\"开膛手杰克\"的身份，至今没有定论。",
+      "why": "当年的案件留下了大量猜测，但没有确凿证据。",
+      "deep": "它是历史上最著名的未破悬案之一。"
+    },
+    "source": { "name": "伦敦警察厅历史档案", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "UNS-0012",
+    "category": "unsolved",
+    "topic": "图坦卡蒙诅咒",
+    "tags": ["图坦卡蒙", "诅咒", "科学解释"],
+    "factual_type": "FACT",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "\"法老的诅咒\"有更普通的解释。",
+      "why": "密闭墓穴里的真菌、有毒气体，加上巧合和媒体渲染。",
+      "deep": "考古团队里确实有人早逝，但多数人活得很久。"
+    },
+    "source": { "name": "考古与医学分析", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "UNS-0013",
+    "category": "unsolved",
+    "topic": "亚瑟王",
+    "tags": ["亚瑟王", "传说", "辨析"],
+    "factual_type": "LEGEND",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "亚瑟王是否真实存在，学界没有定论。",
+      "why": "早期记载混杂着神话，考古证据也不完整。",
+      "deep": "这属于传说辨析：可以爱这个故事，但别把它当史书。"
+    },
+    "source": { "name": "中世纪史研究（无定论）", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "UNS-0014",
+    "category": "unsolved",
+    "topic": "黄金城",
+    "tags": ["黄金城", "埃尔多拉多", "传说"],
+    "factual_type": "LEGEND",
+    "presentation": "MYTHBUST",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "\"失落的黄金城\"（埃尔多拉多）源于真实的仪式传说。",
+      "why": "当地确有\"黄金人\"仪式：酋长身上涂金粉，跳入湖中献祭。",
+      "deep": "传说被层层放大成\"整座黄金城\"，引来无数探险队。"
+    },
+    "source": { "name": "南美殖民史研究", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "UNS-0015",
+    "category": "unsolved",
+    "topic": "香格里拉",
+    "tags": ["香格里拉", "虚构", "辨析"],
+    "factual_type": "LEGEND",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "\"香格里拉\"是小说《消失的地平线》里虚构的地名。",
+      "why": "它灵感来自西藏传说，但本身是虚构。",
+      "deep": "后来中国云南中甸县改名\"香格里拉\"——虚构的名字成了真地名。"
+    },
+    "source": { "name": "文学与地名考证", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "UNS-0016",
+    "category": "unsolved",
+    "topic": "尼斯湖水怪",
+    "tags": ["尼斯湖", "水怪", "照片骗局"],
+    "factual_type": "FACT",
+    "presentation": "MYTHBUST",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "尼斯湖水怪最著名的\"照片\"，后来被证实是模型。",
+      "why": "1994 年当事人承认照片是拼贴的。",
+      "deep": "湖里有没有大家伙，科学上没有证据——但旅游经济是真的。"
+    },
+    "source": { "name": "事件调查报道", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "UNS-0017",
+    "category": "unsolved",
+    "topic": "通古斯大爆炸",
+    "tags": ["通古斯", "爆炸", "未解"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "1908 年西伯利亚通古斯大爆炸，至今没有完全解释。",
+      "why": "大片森林被夷平，主流认为是小行星/彗星空中爆炸。",
+      "deep": "具体是什么、威力多大，学界仍有争论。"
+    },
+    "source": { "name": "科学事件研究（原因有争议）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "UNS-0018",
+    "category": "unsolved",
+    "topic": "双鱼玉佩",
+    "tags": ["双鱼玉佩", "互联网传说", "辨析"],
+    "factual_type": "LEGEND",
+    "presentation": "MYTHBUST",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "\"双鱼玉佩\"是网上流传的罗布泊传说，没有可靠依据。",
+      "why": "它被包装成神秘事件的证据，但没有任何官方资料。",
+      "deep": "这是互联网传说，不是事实——它本身是\"都市神话\"的样本。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "UNS-0019",
+    "category": "unsolved",
+    "topic": "米诺斯文明",
+    "tags": ["米诺斯", "克里特", "崩溃原因"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "克里特岛的米诺斯文明为何崩溃，学界至今有争议。",
+      "why": "火山喷发、地震、入侵，各派都有证据。",
+      "deep": "它也被认为是\"亚特兰蒂斯\"传说的灵感来源之一。"
+    },
+    "source": { "name": "爱琴海考古研究", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "UNS-0020",
+    "category": "unsolved",
+    "topic": "地狱之门",
+    "tags": ["巴塔加卡", "巨坑", "冻土"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "俄罗斯西伯利亚有个\"地狱之门\"，其实是一个还在扩大的巨坑。",
+      "why": "它叫巴塔加卡坑，是永久冻土融化形成的塌陷。",
+      "deep": "它在提醒我们：冻土之下的变化，比想象中剧烈。"
+    },
+    "source": { "name": "地貌学研究报道", "confidence": "widely_accepted" },
+    "related": []
+  }
+]

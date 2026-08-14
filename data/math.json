@@ -1,0 +1,438 @@
+[
+  {
+    "id": "MAT-0001",
+    "category": "math",
+    "subcategory": "概率",
+    "topic": "生日悖论",
+    "tags": ["生日", "概率", "悖论"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "只要 23 个人，就有约一半概率出现两个人生日相同。",
+      "why": "每个人和\"自己\"比感觉概率很小，但两两配对有 253 对，概率就上来了。",
+      "deep": "这就是\"生日悖论\"——不是悖论，是直觉陷阱。"
+    },
+    "source": { "name": "概率论通识", "confidence": "verified" },
+    "related": [{ "id": "MAT-0002", "type": "SIMILAR" }, { "id": "MIN-0002", "type": "WOW" }],
+    "weight": 1.1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0002",
+    "category": "math",
+    "subcategory": "概率",
+    "topic": "蒙提霍尔",
+    "tags": ["蒙提霍尔", "概率", "换门"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "三扇门选一扇，主持人打开一扇空门后，换门胜率更高。",
+      "why": "一开始你选对的概率是 1/3，主持人帮你排除一个错误选项后，剩下的门集中了 2/3 的概率。",
+      "deep": "多数人觉得\"换不换都一样\"，但数学说：换。"
+    },
+    "source": { "name": "概率论通识", "confidence": "verified" },
+    "related": [{ "id": "MAT-0001", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0003",
+    "category": "math",
+    "subcategory": "无限",
+    "topic": "无穷大",
+    "tags": ["无穷", "康托尔", "无限"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "无穷大也分大小。",
+      "why": "自然数和整数一样多，但实数的\"无穷大\"比它们更大。",
+      "deep": "数学家康托尔证明了这件事，当时连他自己都有点不敢信。"
+    },
+    "source": { "name": "集合论通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0004",
+    "category": "math",
+    "subcategory": "数字",
+    "topic": "一亿秒",
+    "tags": ["一亿秒", "数量级", "时间"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "一亿秒约 3.17 年，十亿秒约 31.7 年。",
+      "why": "秒对人类太小，换成\"年\"才显出数量级的恐怖。",
+      "deep": "所以\"赚一个亿\"和\"赚十个亿\"，差的不是 9 倍，是 10 倍的人生。"
+    },
+    "source": { "name": "数学通识", "confidence": "verified" },
+    "related": [],
+    "weight": 1.1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0005",
+    "category": "math",
+    "subcategory": "几何",
+    "topic": "四色定理",
+    "tags": ["四色定理", "地图", "计算机证明"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "给地图上色，四种颜色永远够用。",
+      "why": "1976 年四色定理被证明，但证明过程用了大量计算机计算——这在当时引发巨大争议。",
+      "deep": "它是第一个主要靠计算机证明的著名数学定理。"
+    },
+    "source": { "name": "图论与数学史", "confidence": "verified" },
+    "related": [{ "id": "MAT-0007", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0006",
+    "category": "math",
+    "subcategory": "数字",
+    "topic": "圆周率",
+    "tags": ["π", "圆周率", "正规数"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "圆周率 π 的小数点后，理论上藏着任何一串数字。",
+      "why": "如果 π 是\"正规数\"，你的生日、电话号码都会出现在某一位。",
+      "deep": "不过这一点目前还没被严格证明。"
+    },
+    "source": { "name": "数论通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0007",
+    "category": "math",
+    "subcategory": "图论",
+    "topic": "七桥问题",
+    "tags": ["七桥问题", "图论", "欧拉"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "七桥问题开启了图论——能不能一次走完柯尼斯堡的七座桥不重复？",
+      "why": "欧拉证明不可能，并把问题抽象成点和线，图论由此诞生。",
+      "deep": "今天的导航、社交网络都在用图。"
+    },
+    "source": { "name": "图论史", "confidence": "verified" },
+    "related": [{ "id": "MAT-0005", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0008",
+    "category": "math",
+    "subcategory": "随机性",
+    "topic": "伪随机",
+    "tags": ["随机", "伪随机", "计算机"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "计算机的\"随机\"其实是\"伪随机\"。",
+      "why": "计算机用确定的算法生成看似随机的数列，只要知道种子就能复现。",
+      "deep": "真正需要安全的地方（如加密），会用物理噪声做\"真随机\"。"
+    },
+    "source": { "name": "计算机科学通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0009",
+    "category": "math",
+    "subcategory": "几何",
+    "topic": "蜂巢",
+    "tags": ["蜂巢", "六边形", "蜂窝猜想"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "蜂巢的六边形，是数学家眼中的\"最优解\"。",
+      "why": "六边形能以最少材料围出最大面积，蜜蜂无意中用上了几何优化。",
+      "deep": "1999 年数学家终于严格证明了\"蜂窝猜想\"。"
+    },
+    "source": { "name": "数学史（蜂窝猜想证明）", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0010",
+    "category": "math",
+    "subcategory": "概率",
+    "topic": "彩票概率",
+    "tags": ["彩票", "概率", "期望"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "买彩票中头奖的概率，约等于连续被雷劈两次。",
+      "why": "双色球头奖概率约 1/1772 万，而一生被雷劈的概率约 1/15300（美国数据）。",
+      "deep": "数学不阻止你买，只是提醒你别算错期望。"
+    },
+    "source": { "name": "概率通识（头奖概率数据）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MAT-0011",
+    "category": "math",
+    "topic": "0.999…",
+    "tags": ["0.999", "极限", "无限小数"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "0.999… 和 1 其实一样大。",
+      "why": "设 x=0.999…，则 10x=9.999…，两边相减得 9x=9，所以 x=1。",
+      "deep": "这是无限小数和极限概念带来的第一个\"反直觉\"。"
+    },
+    "source": { "name": "数学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0012",
+    "category": "math",
+    "topic": "欧拉恒等式",
+    "tags": ["欧拉公式", "常数", "数学之美"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "一个公式同时用上了数学里最重要的五个常数。",
+      "why": "欧拉恒等式：e 的 iπ 次方加 1 等于 0。",
+      "deep": "它把指数、虚数、圆周率、1 和 0 连在一起，被称为\"数学中最美的公式\"。"
+    },
+    "source": { "name": "数学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0013",
+    "category": "math",
+    "topic": "向日葵",
+    "tags": ["斐波那契", "向日葵", "自然"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "向日葵的花盘里藏着斐波那契数列。",
+      "why": "种子按对数螺线排列，左右螺旋数常是相邻的斐波那契数，比如 34 和 55。",
+      "deep": "这种排列让种子排得最密、最省空间——植物无意中用上了数学。"
+    },
+    "source": { "name": "植物数学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0014",
+    "category": "math",
+    "topic": "哥德巴赫猜想",
+    "tags": ["哥德巴赫", "质数", "未解"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "每个大于 2 的偶数都能写成两个质数之和——至今没人证明。",
+      "why": "哥德巴赫猜想 1742 年提出，验证了无数例子，但证明仍是悬案。",
+      "deep": "它是数论里最出名的未解问题之一。"
+    },
+    "source": { "name": "数论通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0015",
+    "category": "math",
+    "topic": "三体问题",
+    "tags": ["三体", "天体力学", "无解"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "三个天体互相吸引的运动，没有精确的一般解。",
+      "why": "两个天体有精确解，三个以上只能近似计算。",
+      "deep": "小说《三体》的名字就来自这个数学难题。"
+    },
+    "source": { "name": "天体力学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0016",
+    "category": "math",
+    "topic": "拓扑",
+    "tags": ["拓扑", "甜甜圈", "洞"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "甜甜圈和咖啡杯，在数学家眼里是同一个东西。",
+      "why": "拓扑学不在乎形状，只在乎\"洞\"的数量：它们都只有一个洞。",
+      "deep": "你永远不能把一个甜甜圈变成没有洞的球。"
+    },
+    "source": { "name": "拓扑学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0017",
+    "category": "math",
+    "topic": "莫比乌斯带",
+    "tags": ["莫比乌斯带", "单面", "拓扑"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "一张纸条拧半圈粘起来，就只有一个面。",
+      "why": "沿中线剪开它不会变成两个环，而是一个更大的环。",
+      "deep": "它只有一条边、一个面，是拓扑学的入门玩具。"
+    },
+    "source": { "name": "数学通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0018",
+    "category": "math",
+    "topic": "随机游走",
+    "tags": ["随机游走", "概率", "醉汉"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "醉汉乱走最终会走回家，但醉鸟会迷路。",
+      "why": "二维随机游走返回原点的概率是 1，三维却不是。",
+      "deep": "数学上叫\"醉汉回家\"成立、\"醉鸟回家\"不成立。"
+    },
+    "source": { "name": "概率论通识（Pólya）", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0019",
+    "category": "math",
+    "topic": "大数定律",
+    "tags": ["大数定律", "概率", "赌场"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "掷硬币次数越多，正反面比例越接近 1:1，但次数差不会缩小。",
+      "why": "大数定律保证比例收敛，不保证绝对差变小。",
+      "deep": "这也是赌场稳赚的数学原理。"
+    },
+    "source": { "name": "概率论通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0020",
+    "category": "math",
+    "topic": "质数无限",
+    "tags": ["质数", "欧几里得", "证明"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "质数有无限多个——两千多年前就证明了。",
+      "why": "假设质数有限，把它们全乘起来再加 1，得到的数不被任何已知质数整除。",
+      "deep": "这个证明被称为数学史上最优雅的证明之一。"
+    },
+    "source": { "name": "数论史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0021",
+    "category": "math",
+    "topic": "圆周率日",
+    "tags": ["圆周率", "3月14日", "爱因斯坦"],
+    "factual_type": "FACT",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "3 月 14 日是圆周率日，也是爱因斯坦的生日。",
+      "why": "π≈3.14，所以 3/14 成了圆周率日；爱因斯坦恰好也是这天出生。",
+      "deep": "2009 年美国国会正式承认了圆周率日。"
+    },
+    "source": { "name": "历法与科学史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "MAT-0022",
+    "category": "math",
+    "topic": "棋盘米粒",
+    "tags": ["指数增长", "棋盘", "米粒"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "棋盘每格放上一格两倍的米粒，第 64 格的数量多到全球大米都不够。",
+      "why": "2 的 64 次方减 1 粒米，约 1800 亿亿粒。",
+      "deep": "这就是\"指数增长\"的恐怖之处。"
+    },
+    "source": { "name": "数学通识", "confidence": "verified" },
+    "related": []
+  }
+]

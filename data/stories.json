@@ -1,0 +1,134 @@
+[
+  {
+    "id": "STO-0001",
+    "category": "stories",
+    "subcategory": "微型小说",
+    "topic": "电梯纸条",
+    "tags": ["电梯", "悬疑", "微型小说"],
+    "factual_type": "FICTION",
+    "presentation": "STORY",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "dark",
+    "layers": {
+      "teaser": "他在电梯里捡到一张纸条，写着\"别在第三站下车\"。他住 12 楼，电梯里没有第三站。他翻出物业图纸——图纸上画着 17 层，按钮只有 12 个。",
+      "why": "",
+      "deep": "虚构故事。它停在这里，剩下的你自己想。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STO-0002",
+    "category": "stories",
+    "subcategory": "微型小说",
+    "topic": "茉莉花",
+    "tags": ["温柔", "奶奶", "记忆"],
+    "factual_type": "FICTION",
+    "presentation": "STORY",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "奶奶去世那天，她第一次在厨房里闻到茉莉花。全家都说那是幻觉。她没说——她小时候在奶奶抽屉里偷看过一包干茉莉花，包装上写着：\"等你想我的时候，泡一杯。\"",
+      "why": "",
+      "deep": "虚构故事。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STO-0004",
+    "category": "stories",
+    "subcategory": "微型小说",
+    "topic": "三十年后",
+    "tags": ["时间胶囊", "温柔", "反转"],
+    "factual_type": "FICTION",
+    "presentation": "STORY",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "她把写给自己的信埋进后院。三十年后挖出来，信封上多了一行字，不是她的笔迹：\"谢谢你没有提前看。\"",
+      "why": "",
+      "deep": "虚构故事。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STO-0008",
+    "category": "stories",
+    "subcategory": "微型小说",
+    "topic": "十把伞",
+    "tags": ["伞", "公交站", "温柔"],
+    "factual_type": "FICTION",
+    "presentation": "STORY",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "她丢了十把伞，每次都在同一个公交站。第十一次，她故意把伞留在那里。第二天伞还在，上面夹着一张纸条：\"我也丢过十把。\"",
+      "why": "",
+      "deep": "虚构故事。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STO-0010",
+    "category": "stories",
+    "subcategory": "微型小说",
+    "topic": "倒计时",
+    "tags": ["倒计时", "电话", "温柔"],
+    "factual_type": "FICTION",
+    "presentation": "STORY",
+    "rarity": "RARE",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "手机上多了一个倒计时，没有名字。他以为是玩笑，直到倒计时结束那天，电话响起，是三十年前的妈妈。\"别怕，我只是想听听你的声音。\"",
+      "why": "",
+      "deep": "虚构故事。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "STO-0012",
+    "category": "stories",
+    "subcategory": "微型小说",
+    "topic": "最后一家书店",
+    "tags": ["书店", "未来", "温柔"],
+    "factual_type": "FICTION",
+    "presentation": "STORY",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "全城只剩一家书店。店员每天把书摆好，等几乎不会来的客人。某天门口多了张纸条：\"别关。我们还在路上，只是走得慢。\"",
+      "why": "",
+      "deep": "虚构故事。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  }
+]

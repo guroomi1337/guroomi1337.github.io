@@ -1,0 +1,394 @@
+[
+  {
+    "id": "CHO-0001",
+    "category": "choices",
+    "subcategory": "两难",
+    "topic": "一千万",
+    "tags": ["选择", "一千万", "解释"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "你可以获得一千万，但从此以后不能再向任何人解释自己的行为。",
+      "why": "选\"要\"的人想想：家人问你为什么辞掉工作，你怎么答？",
+      "deep": "这个选择其实在问：自由和\"被理解\"，哪个更贵？"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "CHO-0002",
+    "category": "choices",
+    "subcategory": "两难",
+    "topic": "背后评价",
+    "tags": ["选择", "评价", "真相"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "你可以知道所有人背后怎么评价你，但再也无法假装不知道。",
+      "why": "知道之后，每一句客套都变成了剧本。",
+      "deep": "有时候，\"不知道\"也是一种幸福——问题是，你敢不敢确认这一点。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "CHO-0003",
+    "category": "choices",
+    "subcategory": "两难",
+    "topic": "删除记忆",
+    "tags": ["选择", "记忆", "删除"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "你可以删掉人生中的一个记忆，但永远不知道删掉了什么。",
+      "why": "最大的风险不是失去，而是\"不知道自己失去了\"。",
+      "deep": "这道题没有对错，只有你愿意为\"轻松\"付多少。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "CHO-0004",
+    "category": "choices",
+    "subcategory": "两难",
+    "topic": "不再无聊",
+    "tags": ["选择", "无聊", "兴奋"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "永远不再感到无聊，但也不再对任何新东西感到兴奋。",
+      "why": "无聊和兴奋是同一枚硬币的两面：没有落差，就没有惊喜。",
+      "deep": "选之前想想：这个网站存在的意义，就是让你在无聊和兴奋之间反复横跳。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "CHO-0005",
+    "category": "choices",
+    "subcategory": "两难",
+    "topic": "过目不忘",
+    "tags": ["选择", "记忆", "痛苦"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "拥有过目不忘的记忆，但再也无法\"忘记\"任何痛苦。",
+      "why": "记忆不只是工具，它也是伤口的管理员。",
+      "deep": "有人觉得忘记是缺陷，有人觉得忘记是保护——你是哪种？"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "CHO-0006",
+    "category": "choices",
+    "subcategory": "两难",
+    "topic": "秘密",
+    "tags": ["选择", "秘密", "隐瞒"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "让全世界知道你的一个秘密，或者让你永远不知道别人对你的一次重要隐瞒——选哪个？",
+      "why": "第一个是暴露，第二个是被瞒——都难受，但难受的方向不同。",
+      "deep": "这道题的隐藏问题是：你更怕被看穿，还是更怕被蒙在鼓里？"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "CHO-0007",
+    "category": "choices",
+    "subcategory": "两难",
+    "topic": "满分",
+    "tags": ["选择", "满分", "学习"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "可以在任何考试得满分，但从此失去学习的乐趣。",
+      "why": "满分是结果，乐趣是过程——大多数人都知道选哪个，但心里会犹豫一下。",
+      "deep": "犹豫的那一下，就是答案。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "CHO-0008",
+    "category": "choices",
+    "subcategory": "两难",
+    "topic": "多两小时",
+    "tags": ["选择", "时间", "睡觉"],
+    "factual_type": "HUMOR",
+    "presentation": "CHOICE",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "每天多 2 小时，但只能用来睡觉。",
+      "why": "选的人以为赚了，睡着的人以为亏了。",
+      "deep": "其实这条不是选择题，是当代人的体检报告。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "CHO-0009",
+    "category": "choices",
+    "topic": "回到过去",
+    "tags": ["选择", "过去", "观看"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "可以回到过去看一次，但不能改变任何事——去还是不去？",
+      "why": "能看到真相，也可能看到不想看的。",
+      "deep": "选\"去\"的人，其实是在赌自己承受得住。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0010",
+    "category": "choices",
+    "topic": "24小时直播",
+    "tags": ["选择", "直播", "隐私"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "全世界都能看到你 24 小时直播（只有你自己看不到），换 100 万？",
+      "why": "你的隐私成了别人的节目。",
+      "deep": "真正让人犹豫的不是钱，是\"你不想被人看到的那一面\"。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0011",
+    "category": "choices",
+    "topic": "90%真话",
+    "tags": ["选择", "真话", "伤害"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "永远只说 90% 的真话（剩下 10% 会伤人），还是永远说完整的真话？",
+      "why": "90% 方案让你保留一点善意，也保留一点控制。",
+      "deep": "这道题真正在问：诚实和温柔，你更怕失去哪个。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0012",
+    "category": "choices",
+    "topic": "朋友记得你",
+    "tags": ["选择", "记忆", "朋友"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "让你的朋友都记得你，但你不记得他们？",
+      "why": "他们对你热情，你却想不起为什么。",
+      "deep": "被记得却认不出，可能比被忘记更孤独。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0013",
+    "category": "choices",
+    "topic": "完美工作",
+    "tags": ["选择", "工作", "重复"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "拥有一份完美的工作，但 20 年做同一件事？",
+      "why": "稳定和新鲜感，往往不能同时拥有。",
+      "deep": "选完请想想：你更怕无聊，还是更怕变动？"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0014",
+    "category": "choices",
+    "topic": "知道死期",
+    "tags": ["选择", "死亡", "日期"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "知道自己的死亡日期，但不知道方式？",
+      "why": "你会给那天留出时间，还是害怕那天到来？",
+      "deep": "大多数人拒绝，但承认：如果知道，可能会活得不一样。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0015",
+    "category": "choices",
+    "topic": "人人喜欢你",
+    "tags": ["选择", "喜欢", "自我"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "让所有人都喜欢你，但你不再是你自己？",
+      "why": "被所有人喜欢的前提，通常是藏起一部分自己。",
+      "deep": "这道题在问：你愿意为\"被喜欢\"付多少代价。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0016",
+    "category": "choices",
+    "topic": "无限金钱",
+    "tags": ["选择", "金钱", "休息"],
+    "factual_type": "HUMOR",
+    "presentation": "CHOICE",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "拥有无限金钱，但永远不能休息？",
+      "why": "你会有全世界最好的床，但没有时间躺。",
+      "deep": "这道题的答案，大概取决于你今天睡了几个小时。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0017",
+    "category": "choices",
+    "topic": "预知五分钟",
+    "tags": ["选择", "预知", "小事"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "可以预知未来 5 分钟，但只能用来避免小麻烦？",
+      "why": "躲过洒咖啡、迟到、忘带钥匙——仅此而已。",
+      "deep": "它不会改变人生，但会让你的人生顺一点点。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0018",
+    "category": "choices",
+    "topic": "猫说人话",
+    "tags": ["选择", "猫", "秘密"],
+    "factual_type": "HUMOR",
+    "presentation": "CHOICE",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "让世界上所有的猫都会说人话，但它们只对别人说？",
+      "why": "你的猫会对邻居说什么，你想过吗？",
+      "deep": "选之前先想想：你家猫知道太多了。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0019",
+    "category": "choices",
+    "topic": "快乐药",
+    "tags": ["选择", "快乐", "忘记"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "获得\"永远快乐\"的药，但会忘记让你快乐的人和事？",
+      "why": "快乐还在，但快乐的原因没了。",
+      "deep": "这大概是最温柔的恐怖故事。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "CHO-0020",
+    "category": "choices",
+    "topic": "才能交换",
+    "tags": ["选择", "才能", "平庸"],
+    "factual_type": "OPINION",
+    "presentation": "CHOICE",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "让你最有才华的领域变平庸，换其他所有领域变优秀？",
+      "why": "你会变成\"各方面都不错\"的人，但不再是那个最特别的你。",
+      "deep": "这道题在问：你更爱自己的天赋，还是更爱\"全面\"。"
+    },
+    "source": null,
+    "related": []
+  }
+]

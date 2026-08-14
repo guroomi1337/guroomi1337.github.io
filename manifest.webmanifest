@@ -1,0 +1,16 @@
+{
+  "name": "下一件 · 奇怪事物档案馆",
+  "short_name": "下一件",
+  "description": "一个按钮，遇见任何东西。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0c0d12",
+  "theme_color": "#0c0d12",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230c0d12'/><text x='50' y='68' font-size='54' text-anchor='middle' fill='%23e0a458'>✦</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

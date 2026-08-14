@@ -1,0 +1,394 @@
+[
+  {
+    "id": "LOS-0001",
+    "category": "lost_things",
+    "subcategory": "失落文明",
+    "topic": "亚历山大图书馆",
+    "tags": ["亚历山大图书馆", "消失", "藏书"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "亚历山大图书馆：古代世界最大的图书馆之一，毁于历史尘埃。",
+      "why": "它的藏书规模与具体内容至今是谜，连\"烧毁\"的时间都有多种说法。",
+      "deep": "有人说它毁于大火，有人说它只是衰落——人类失去的不只是书，还有可能性的目录。"
+    },
+    "source": { "name": "古代史研究（细节有争议）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LOS-0002",
+    "category": "lost_things",
+    "subcategory": "失传技术",
+    "topic": "希腊火",
+    "tags": ["希腊火", "失传", "武器"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "\"希腊火\"：拜占庭的火焰武器，配方失传。",
+      "why": "它在海上喷射、遇水不灭，让拜占庭海军称霸几个世纪。",
+      "deep": "配方被严格保密，最后随帝国一起消失——至今没人能完全复原。"
+    },
+    "source": { "name": "拜占庭军事史", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LOS-0003",
+    "category": "lost_things",
+    "subcategory": "灭绝物种",
+    "topic": "渡渡鸟",
+    "tags": ["渡渡鸟", "灭绝", "毛里求斯"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "渡渡鸟从被发现到灭绝，不到一个世纪。",
+      "why": "它生活在毛里求斯，不怕人，结果成了水手和入侵物种的猎物。",
+      "deep": "它消失得如此之快，以至于\"像渡渡鸟一样绝种\"成了比喻。"
+    },
+    "source": { "name": "生物灭绝史", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LOS-0004",
+    "category": "lost_things",
+    "subcategory": "消失的湖泊",
+    "topic": "罗布泊",
+    "tags": ["罗布泊", "湖泊", "干涸"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "罗布泊曾是中国第二大咸水湖，如今几乎干涸。",
+      "why": "上游截水与气候变化，让湖泊萎缩成大片盐壳。",
+      "deep": "古代楼兰的消失，也和这片水域的变迁有关。"
+    },
+    "source": { "name": "中国地理与环境史", "confidence": "verified" },
+    "related": [{ "id": "GEO-0004", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LOS-0005",
+    "category": "lost_things",
+    "subcategory": "水下古城",
+    "topic": "赫拉克利翁",
+    "tags": ["水下古城", "埃及", "赫拉克利翁"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "埃及海岸水下，沉着一座整座古城（赫拉克利翁 / Thonis）。",
+      "why": "它沉没约 1200 年，2000 年才被重新发现，雕像金币保存完好。",
+      "deep": "沉没原因可能是地质沉降与海平面上升——一座城市被海水\"借走\"了。"
+    },
+    "source": { "name": "海洋考古发现（Franck Goddio 团队）", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LOS-0006",
+    "category": "lost_things",
+    "subcategory": "失落的声音",
+    "topic": "里拉琴之声",
+    "tags": ["里拉琴", "音乐", "消失"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "古希腊的里拉琴，我们永远听不到它真正的声音了。",
+      "why": "我们见过它的图画和残片，但两千多年前的音乐没有录音。",
+      "deep": "有些消失的东西不是物件，是一种声音——这种失去甚至没有名字。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LOS-0007",
+    "category": "lost_things",
+    "subcategory": "失传文献",
+    "topic": "玛雅抄本",
+    "tags": ["玛雅", "抄本", "焚书"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "16 世纪的\"焚书\"让玛雅抄本几乎消失，如今全世界仅存几本。",
+      "why": "殖民时期大量玛雅文献被销毁，玛雅文字知识一度失传，直到 20 世纪才被破译。",
+      "deep": "幸存者包括著名的《德累斯顿抄本》——几页纸，撑起了一门文明的记忆。"
+    },
+    "source": { "name": "玛雅文明史", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LOS-0008",
+    "category": "lost_things",
+    "subcategory": "复活的物种",
+    "topic": "拉撒路物种",
+    "tags": ["拉撒路物种", "复活", "灭绝"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "有物种被宣布灭绝后，又被重新发现了。",
+      "why": "它们叫\"拉撒路物种\"——消失几十年甚至上百年后再次出现。",
+      "deep": "它们提醒我们：\"灭绝\"有时只是\"还没找到\"。"
+    },
+    "source": { "name": "保护生物学通识", "confidence": "widely_accepted" },
+    "related": [{ "id": "LOS-0003", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "LOS-0009",
+    "category": "lost_things",
+    "topic": "巴别塔",
+    "tags": ["巴别塔", "传说", "辨析"],
+    "factual_type": "LEGEND",
+    "presentation": "MYTHBUST",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "巴别塔的故事，可能是对真实建筑的夸张记忆。",
+      "why": "两河流域确实有过高耸的阶梯塔（金字形神塔）。",
+      "deep": "这是传说辨析：故事未必是史实，但可能有个现实的原型。"
+    },
+    "source": { "name": "古代近东研究", "confidence": "disputed" },
+    "related": []
+  },
+  {
+    "id": "LOS-0010",
+    "category": "lost_things",
+    "topic": "巴米扬大佛",
+    "tags": ["巴米扬", "大佛", "被毁"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "阿富汗的巴米扬大佛，2001 年被炸毁。",
+      "why": "它们曾是世界最高的立佛像，开凿于 6 世纪。",
+      "deep": "如今空空的佛龛，成了文明之痛的标志。"
+    },
+    "source": { "name": "联合国教科文组织记录", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LOS-0011",
+    "category": "lost_things",
+    "topic": "亚历山大灯塔",
+    "tags": ["灯塔", "七大奇迹", "消失"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "亚历山大灯塔是古代世界七大奇迹之一，早已消失。",
+      "why": "它高约 100 米以上，靠火光照亮航船。",
+      "deep": "后来毁于地震，残石还沉在亚历山大港水下。"
+    },
+    "source": { "name": "古代建筑史", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "LOS-0012",
+    "category": "lost_things",
+    "topic": "琥珀宫",
+    "tags": ["琥珀宫", "失踪", "二战"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "\"琥珀宫\"是二战失踪的稀世珍宝，至今没有找到。",
+      "why": "它原本在俄国，被德军拆走，战后下落不明。",
+      "deep": "无数人找过它，各种传说都有——但实物始终没有现身。"
+    },
+    "source": { "name": "二战文物档案", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LOS-0013",
+    "category": "lost_things",
+    "topic": "泰坦尼克号",
+    "tags": ["泰坦尼克", "沉船", "再发现"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "泰坦尼克号沉没 73 年后，才在海底被重新找到。",
+      "why": "1985 年发现残骸时，它已在 3800 米深的海底。",
+      "deep": "它提醒我们：\"不会沉\"是最危险的一句话。"
+    },
+    "source": { "name": "海洋考古记录", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LOS-0014",
+    "category": "lost_things",
+    "topic": "猛犸象",
+    "tags": ["猛犸象", "灭绝", "复活计划"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "猛犸象灭绝了数千年，但\"复活\"计划真的在推进。",
+      "why": "科学家从冻土里的猛犸残骸提取 DNA，尝试基因编辑复活。",
+      "deep": "就算成功，复活的也更接近\"像猛犸的大象\"。"
+    },
+    "source": { "name": "古生物学与基因研究报道", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "LOS-0015",
+    "category": "lost_things",
+    "topic": "罗马混凝土",
+    "tags": ["罗马", "混凝土", "失传配方"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "古罗马混凝土能在海水里越泡越硬，现代配方一度没完全复刻。",
+      "why": "它含火山灰和石灰，特殊化学反应让它在海水中自我修复。",
+      "deep": "近年科学家已接近解开谜底——两千年前的材料，今天还在给工程师上课。"
+    },
+    "source": { "name": "材料科学研究（近年进展）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "LOS-0016",
+    "category": "lost_things",
+    "topic": "袋狼",
+    "tags": ["袋狼", "灭绝", "塔斯马尼亚"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "最后一只袋狼（塔斯马尼亚虎）1936 年死在动物园。",
+      "why": "它曾被当成害兽大量猎杀。",
+      "deep": "从那以后，\"目击袋狼\"的传闻不断，但没有确凿证据。"
+    },
+    "source": { "name": "动物保护史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LOS-0017",
+    "category": "lost_things",
+    "topic": "旅鸽",
+    "tags": ["旅鸽", "灭绝", "数量"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "旅鸽曾多到遮天蔽日，却在百年内灭绝。",
+      "why": "大规模捕杀加上栖息地破坏，速度远超想象。",
+      "deep": "最后一只旅鸽 1914 年在动物园去世——\"数量多\"不是护身符。"
+    },
+    "source": { "name": "鸟类灭绝史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LOS-0018",
+    "category": "lost_things",
+    "topic": "千岛湖水下古城",
+    "tags": ["千岛湖", "水下古城", "中国"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "中国千岛湖下，沉着一座座完整的古城。",
+      "why": "1959 年建水库，两座千年古城被淹没。",
+      "deep": "现在潜水员能在水下看到城墙、石阶和牌坊。"
+    },
+    "source": { "name": "水库建设史与水下考古报道", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "LOS-0019",
+    "category": "lost_things",
+    "topic": "素纱襌衣",
+    "tags": ["素纱襌衣", "汉代", "轻"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "马王堆出土的素纱襌衣只有 49 克，现代一度复刻不了那么轻。",
+      "why": "汉代缫丝工艺极细，复制品最初总是超重。",
+      "deep": "后来靠改良蚕种才接近原版——两千年前的纺织技术，让现代人头疼。"
+    },
+    "source": { "name": "马王堆考古报道", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "LOS-0020",
+    "category": "lost_things",
+    "topic": "大海雀",
+    "tags": ["大海雀", "灭绝", "企鹅"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "大海雀是北半球的\"企鹅\"，1844 年灭绝。",
+      "why": "它们不会飞、不怕人，成了水手和采集者的目标。",
+      "deep": "最后几只被发现时，有人为了做标本把它们打死——灭绝的最后一步往往如此荒诞。"
+    },
+    "source": { "name": "生物灭绝史", "confidence": "verified" },
+    "related": []
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "TEC-0001",
+    "category": "tech",
+    "subcategory": "计算机历史",
+    "topic": "QWERTY",
+    "tags": ["键盘", "QWERTY", "打字机"],
+    "factual_type": "HISTORY",
+    "presentation": "Q_A",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "键盘的 QWERTY 排列，最初是为了让打字机少卡键。",
+      "why": "早期打字机连杆容易互相卡住，把常用字母分开能降低卡键概率。",
+      "deep": "这个解释有争议，但 QWERTY 已经统治世界一个多世纪。"
+    },
+    "source": { "name": "打字机史（起源有争议）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0002",
+    "category": "tech",
+    "subcategory": "失败产品",
+    "topic": "Betamax",
+    "tags": ["Betamax", "VHS", "格式大战"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "Betamax 录像带画质更好，却在格式大战中输给了 VHS。",
+      "why": "VHS 录像时长更长、厂商联盟更广，市场选择了\"够用\"而不是\"最好\"。",
+      "deep": "技术上的胜利者，不一定是市场的胜利者。"
+    },
+    "source": { "name": "消费电子史", "confidence": "verified" },
+    "related": [{ "id": "TEC-0009", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0003",
+    "category": "tech",
+    "subcategory": "交通史",
+    "topic": "电动出租车",
+    "tags": ["电动车", "出租车", "1897"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "100 多年前，纽约街头跑过电动出租车。",
+      "why": "1897 年纽约出现电动车队，比汽油车更安静、没异味。",
+      "deep": "后来因为续航和充电问题，电动车先输了一轮。"
+    },
+    "source": { "name": "交通史记载", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0004",
+    "category": "tech",
+    "subcategory": "计算机历史",
+    "topic": "软盘",
+    "tags": ["软盘", "保存图标", "界面化石"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "现在的\"保存\"图标，是一个 40 多年前的软盘。",
+      "why": "软件界一直沿用软盘图标表示保存，很多年轻人从没见过真软盘。",
+      "deep": "这是\"界面化石\"的经典例子。"
+    },
+    "source": { "name": "界面设计史", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0005",
+    "category": "tech",
+    "subcategory": "计算机历史",
+    "topic": "bug",
+    "tags": ["bug", "飞蛾", "格蕾丝·霍珀"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "计算机\"bug\"的著名故事里，真有一只飞蛾。",
+      "why": "1947 年，格蕾丝·霍珀团队的工程师从继电器里夹出一只飞蛾，记录为\"第一个被找到的真 bug\"。",
+      "deep": "不过\"bug\"这个词更早就在工程里表示故障了。"
+    },
+    "source": { "name": "计算机史记载", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0006",
+    "category": "tech",
+    "subcategory": "互联网历史",
+    "topic": "第一个网站",
+    "tags": ["万维网", "第一个网站", "CERN"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "世界上第一个网站至今还能访问。",
+      "why": "1991 年蒂姆·伯纳斯-李在 CERN 上线了 info.cern.ch，介绍万维网。",
+      "deep": "它被保存在原地址，向\"打开网页\"这个动作致敬。"
+    },
+    "source": { "name": "万维网历史", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0007",
+    "category": "tech",
+    "subcategory": "密码学",
+    "topic": "凯撒密码",
+    "tags": ["密码", "凯撒", "加密"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "最古老的加密方式之一叫\"凯撒密码\"，只是把字母移几位。",
+      "why": "尤利乌斯·凯撒用它传递军令。",
+      "deep": "今天它几秒就能破解，但思想是所有现代加密的祖先。"
+    },
+    "source": { "name": "密码学史", "confidence": "verified" },
+    "related": [{ "id": "UNS-0004", "type": "WOW" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0008",
+    "category": "tech",
+    "subcategory": "AI 历史",
+    "topic": "AI 一词",
+    "tags": ["AI", "人工智能", "1956"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "\"人工智能\"这个词 1956 年就出现了。",
+      "why": "达特茅斯会议正式提出 AI 概念，距离第一台计算机诞生才 10 年。",
+      "deep": "此后 AI 经历了几次\"寒冬\"，直到近年深度学习爆发。"
+    },
+    "source": { "name": "AI 历史", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0009",
+    "category": "tech",
+    "subcategory": "失败产品",
+    "topic": "新可乐",
+    "tags": ["可口可乐", "新可乐", "营销失败"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "可口可乐 1985 年换配方，结果消费者不买账。",
+      "why": "\"新可乐\"上市几个月就遭抵制，公司只好恢复经典配方。",
+      "deep": "它被称为市场营销史上最大的失误之一，也提醒大公司别乱动经典。"
+    },
+    "source": { "name": "商业史记载", "confidence": "verified" },
+    "related": [{ "id": "TEC-0002", "type": "SIMILAR" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0010",
+    "category": "tech",
+    "subcategory": "网络协议",
+    "topic": "三次握手",
+    "tags": ["TCP", "握手", "网络"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "你发的每个网页请求，都要经过\"三次握手\"。",
+      "why": "TCP 建立连接时先\"你好-收到-好的\"确认三次，保证双方都准备好。",
+      "deep": "这就是为什么偶尔网络慢，但数据不会乱。"
+    },
+    "source": { "name": "计算机网络通识", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0011",
+    "category": "tech",
+    "subcategory": "游戏史",
+    "topic": "Pong",
+    "tags": ["Pong", "街机", "电子游戏"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "最早的电子游戏之一《乒乓》（Pong）1972 年上市，投币就能玩。",
+      "why": "它简单到只有两个竖条和一个点，却让街机火遍全球。",
+      "deep": "雅达利的创始人后来回忆，第一台机器因为硬币太多卡住了。"
+    },
+    "source": { "name": "电子游戏史", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0012",
+    "category": "tech",
+    "subcategory": "手机史",
+    "topic": "第一部手机",
+    "tags": ["手机", "摩托罗拉", "DynaTAC"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "第一部商用手机重约 1.1 公斤，充满电只能聊 30 分钟。",
+      "why": "1983 年摩托罗拉 DynaTAC 8000X 上市，售价约 4000 美元。",
+      "deep": "它充电要 10 小时，被称为\"砖头\"。"
+    },
+    "source": { "name": "移动通信史", "confidence": "verified" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "TEC-0013",
+    "category": "tech",
+    "topic": "恩尼格玛",
+    "tags": ["恩尼格玛", "密码机", "二战"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "二战德军的\"恩尼格玛\"密码机，被盟军成功破译。",
+      "why": "波兰数学家早期工作 + 图灵团队的布莱切利园。",
+      "deep": "历史学家认为，这缩短了战争。"
+    },
+    "source": { "name": "密码学史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "TEC-0014",
+    "category": "tech",
+    "topic": "日本传真机",
+    "tags": ["传真机", "日本", "消失中"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "传真机在大多数地方消失了，但日本还在用。",
+      "why": "行政流程和文化惯性让它活了下来。",
+      "deep": "这算是\"消失中的技术\"的慢镜头。"
+    },
+    "source": { "name": "科技与社会报道", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "TEC-0015",
+    "category": "tech",
+    "topic": "功能键",
+    "tags": ["F1-F12", "键盘", "功能键"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "键盘上的 F1-F12，是给程序用的快捷键。",
+      "why": "它们最早出现在 IBM 键盘上，由软件自行定义功能。",
+      "deep": "大多数人很少用，但它们一直在。"
+    },
+    "source": { "name": "计算机外设史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "TEC-0016",
+    "category": "tech",
+    "topic": "第一个浏览器",
+    "tags": ["浏览器", "万维网", "Nexus"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "warm",
+    "layers": {
+      "teaser": "第一个网页浏览器，名字就叫 WorldWideWeb。",
+      "why": "发明者伯纳斯-李后来为避免混淆，把它改叫 Nexus。",
+      "deep": "用自己发明的浏览器看自己发明的网页，是种浪漫。"
+    },
+    "source": { "name": "万维网历史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "TEC-0017",
+    "category": "tech",
+    "topic": "第一封邮件",
+    "tags": ["电子邮件", "1971", "@"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "第一封电子邮件 1971 年发出，内容据说是\"QWERTYUIOP\"。",
+      "why": "雷·汤姆林森还选定了\"@\"作为地址分隔符。",
+      "deep": "他本人说自己不记得具体内容了。"
+    },
+    "source": { "name": "互联网史记载", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "TEC-0018",
+    "category": "tech",
+    "topic": "123456",
+    "tags": ["密码", "123456", "安全"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "每年泄露的数据里，最常用密码都是 123456。",
+      "why": "好记是第一需求，安全是第二需求。",
+      "deep": "这句话本身就是一条安全提醒。"
+    },
+    "source": { "name": "密码泄露统计（NordPass 等）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "TEC-0019",
+    "category": "tech",
+    "topic": "GPS卫星",
+    "tags": ["GPS", "卫星", "时间"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "GPS 至少需要 24 颗卫星，才能保证全球定位。",
+      "why": "每颗卫星带着原子钟，时间误差以纳秒计。",
+      "deep": "你的定位精度，取决于时间精度。"
+    },
+    "source": { "name": "导航技术通识", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "TEC-0020",
+    "category": "tech",
+    "topic": "阿帕网",
+    "tags": ["阿帕网", "1969", "互联网前身"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "互联网的前身阿帕网，1969 年第一次联网。",
+      "why": "它是学术项目，最初只有 4 个节点。",
+      "deep": "如今你在用它看这个页面。"
+    },
+    "source": { "name": "互联网史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "TEC-0021",
+    "category": "tech",
+    "topic": "云的比喻",
+    "tags": ["云", "云计算", "示意图"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "\"云\"的比喻，来自网络示意图里画的那朵云。",
+      "why": "工程师画网络图时，用云朵代表\"不可见的网络\"。",
+      "deep": "它后来成了整个行业的名字。"
+    },
+    "source": { "name": "网络史通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "TEC-0022",
+    "category": "tech",
+    "topic": "手机处理器",
+    "tags": ["芯片", "晶体管", "数量"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "你手机里的芯片，晶体管数量比 1969 年登月计算机多几百万倍。",
+      "why": "阿波罗导航计算机只有约 4000 个芯片逻辑，今天的手机有数十亿晶体管。",
+      "deep": "你口袋里装着当年整个航天计划都算不出的算力。"
+    },
+    "source": { "name": "计算机史通识", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "TEC-0023",
+    "category": "tech",
+    "topic": "网址后缀",
+    "tags": ["域名", "后缀", "历史"],
+    "factual_type": "HISTORY",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "最早的网址后缀只有 .com、.net、.org 等少数几个。",
+      "why": "1985 年首批顶级域名注册，.com 是第一个。",
+      "deep": "如今后缀已经有上千种。"
+    },
+    "source": { "name": "域名体系历史", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "TEC-0024",
+    "category": "tech",
+    "topic": "充电宝",
+    "tags": ["充电宝", "发明", "随身"],
+    "factual_type": "SCIENCE",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "充电宝的大规模流行，只用了十几年。",
+      "why": "智能手机耗电快，锂电池和快充技术让它成为标配。",
+      "deep": "现在\"手机没电\"已经成了一种焦虑，而它以前根本不存在。"
+    },
+    "source": { "name": "消费电子史观察", "confidence": "widely_accepted" },
+    "related": []
+  }
+]

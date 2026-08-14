@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MIN-0001",
+    "category": "mind_games",
+    "subcategory": "经典谜题",
+    "topic": "灯泡开关",
+    "tags": ["谜题", "开关", "灯泡"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "门外有三个开关控制屋里一盏灯，你只能进房间一次，怎么确定哪个开关控制它？",
+      "why": "答案：先开一个开关几分钟再关掉，再开另一个，然后进房间。亮着的是第二个；摸起来热的是第一个；凉的（且不亮）是第三个。",
+      "deep": "经典\"热灯泡\"题——线索不只在光，还在温度。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MIN-0002",
+    "category": "mind_games",
+    "subcategory": "脑筋急转弯",
+    "topic": "没有锁的门",
+    "tags": ["谜题", "门", "脑筋急转弯"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "一个人被关在没有窗户的房间里，只有一张床和一盏灯，他如何出去？",
+      "why": "推开门——房间的门没锁。",
+      "deep": "答案简单到让人生气，这就是脑筋急转弯。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MIN-0003",
+    "category": "mind_games",
+    "subcategory": "博弈论",
+    "topic": "海盗分金",
+    "tags": ["海盗", "金币", "博弈论"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "medium",
+    "tone": "curious",
+    "layers": {
+      "teaser": "5 个海盗分 100 枚金币：最强者先提议，超过半数同意就通过，否则被扔下海。最强海盗应该怎么分？",
+      "why": "从\"只剩两个人\"反推，经典答案大致是：98、0、1、0、1——给第 3 和第 5 个海盗各 1 枚即可（前提是大家都绝对理性）。",
+      "deep": "这是博弈论入门题\"海盗分金\"，核心是倒推别人的倒推。"
+    },
+    "source": { "name": "博弈论经典题", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MIN-0004",
+    "category": "mind_games",
+    "subcategory": "概率",
+    "topic": "双面硬币",
+    "tags": ["硬币", "概率", "条件概率"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "一枚正常硬币和一枚两面都是正面的硬币，随机拿一枚抛一次，正面朝上——它是\"双正面硬币\"的概率是多少？",
+      "why": "答案 2/3。所有等可能结果里有 3 个\"正面\"，其中 2 个来自双面硬币。",
+      "deep": "条件概率的经典入门：先想清楚\"样本空间\"。"
+    },
+    "source": null,
+    "related": [{ "id": "MAT-0002", "type": "WOW" }],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MIN-0005",
+    "category": "mind_games",
+    "subcategory": "数列",
+    "topic": "外观数列",
+    "tags": ["数列", "谜题", "读法"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "找规律：1、11、21、1211、111221……下一个是什么？",
+      "why": "这是\"外观数列\"：读前一个数。1 读作\"一个1\"→11；11 读作\"两个1\"→21；下一个是 312211。",
+      "deep": "看着吓人，规则简单——它只在\"读\"前一个数。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MIN-0006",
+    "category": "mind_games",
+    "subcategory": "经典谜题",
+    "topic": "两根绳子",
+    "tags": ["绳子", "计时", "45分钟"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "一根绳子烧完要 1 小时，但它不均匀。你只有两根这样的绳子和一个打火机，怎么量出 45 分钟？",
+      "why": "绳子 A 两头点燃（30 分钟烧完），同时绳子 B 只点一头。A 烧完时，B 还剩 30 分钟；立刻点燃 B 的另一头，15 分钟后 B 烧完——合计 45 分钟。",
+      "deep": "关键：不均匀没关系，\"两头烧\"永远把总时间减半。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MIN-0007",
+    "category": "mind_games",
+    "subcategory": "几何",
+    "topic": "切蛋糕",
+    "tags": ["蛋糕", "切", "几何"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "一块蛋糕切三刀，最多切成几块？",
+      "why": "8 块：先十字切两刀（4 块），再从侧面横切一刀（翻倍成 8 块）——前提是允许空间切法。",
+      "deep": "二维是 7 块，三维是 8 块——这就是维度带来的差别。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MIN-0008",
+    "category": "mind_games",
+    "subcategory": "脑筋急转弯",
+    "topic": "28 天",
+    "tags": ["谜题", "月份", "脑筋急转弯"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "哪个月有 28 天？",
+      "why": "每个月都有 28 天。",
+      "deep": "你刚才是不是在想二月？这就对了——陷阱就是那么浅。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "MIN-0009",
+    "category": "mind_games",
+    "topic": "天平找球",
+    "tags": ["天平", "谜题", "二分"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "8 个外观一样的球，1 个偏重，用天平最少称几次找出它？",
+      "why": "两次：先 3 对 3 称，哪边重就从哪边 3 个里取 2 个再称。",
+      "deep": "经典二分法，思路是\"每次排除 2/3\"。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0010",
+    "category": "mind_games",
+    "topic": "100 盏灯",
+    "tags": ["灯", "因数", "谜题"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "100 盏灯全亮着，第 2 轮切换每 2 盏，第 3 轮每 3 盏……最后哪些灯还亮？",
+      "why": "只有被切换奇数次（编号为平方数）的灯亮：1、4、9、16……100。",
+      "deep": "这是\"因数个数\"的经典题。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0011",
+    "category": "mind_games",
+    "topic": "狼羊菜",
+    "tags": ["过河", "狼羊菜", "谜题"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "农夫带狼、羊、菜过河，船一次只能带一样，怎么才能都不损失？",
+      "why": "先把羊运过去；回来带狼过去，把羊带回来；带菜过去；再回来接羊。",
+      "deep": "经典状态搜索题，难点在\"把羊带回\"这一步。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0012",
+    "category": "mind_games",
+    "topic": "量出4升",
+    "tags": ["倒水", "桶", "谜题"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "只有 3 升和 5 升两个桶，怎么量出 4 升水？",
+      "why": "5 装满倒进 3（5 剩 2）；倒空 3，把 2 倒入；再装满 5，倒 1 进 3（3 满了，5 剩 4）。",
+      "deep": "经典倒水题，核心是\"制造差量\"。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0013",
+    "category": "mind_games",
+    "topic": "三个盒子",
+    "tags": ["盒子", "标签", "谜题"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "三个盒子分别装着苹果、橘子、混合，但标签全贴错了。摸一个水果，怎么判断三个盒子的内容？",
+      "why": "从标着\"混合\"的盒子摸。既然标签全错，它一定不是混合，摸到什么就是什么。",
+      "deep": "\"标签全错\"是这道题的突破口。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0014",
+    "category": "mind_games",
+    "topic": "9 的倍数",
+    "tags": ["9", "数字根", "倍数"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "9 的倍数的各位数字之和，最后都会回到 9。",
+      "why": "9、18、27……把各位数字相加，反复加，最后都是 9。",
+      "deep": "这是 9 的\"数字根\"特性，也是\"弃九法\"验算的基础。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0015",
+    "category": "mind_games",
+    "topic": "骑士与无赖",
+    "tags": ["逻辑", "骑士", "无赖"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "岛上的人要么只说真话（骑士），要么只说假话（无赖）。问一句，怎么判断哪条路正确？",
+      "why": "问：\"如果我问你这条路对不对，你会说是吗？\"无论对方是骑士还是无赖，答案都指向正确的那条路。",
+      "deep": "经典逻辑题：让真假双方都被\"锁进\"同一个答案。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0016",
+    "category": "mind_games",
+    "topic": "扔鸡蛋",
+    "tags": ["鸡蛋", "楼层", "动态规划"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "两个鸡蛋，100 层楼，找出鸡蛋摔碎的最低楼层，最少试几次？",
+      "why": "用\"跳层\"策略（14、27、39……递减），最少约 14 次。",
+      "deep": "经典动态规划题，面试官最爱。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0017",
+    "category": "mind_games",
+    "topic": "硬币翻面",
+    "tags": ["硬币", "翻面", "谜题"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "10 枚硬币 5 正 5 反，蒙着眼分成两堆，让每堆正面数量相同，怎么做？",
+      "why": "任取 5 枚作为一堆，把这堆全部翻面。",
+      "deep": "不管取到几枚正面，翻面后两堆正面数一定相等——漂亮的反转。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0018",
+    "category": "mind_games",
+    "topic": "24 点",
+    "tags": ["24点", "计算", "谜题"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "用 1、3、4、6 各一次，算出 24。",
+      "why": "6 ÷ (1 - 3÷4) = 24。",
+      "deep": "关键是用除法造出一个\"小于 1 的数\"。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0019",
+    "category": "mind_games",
+    "topic": "过桥问题",
+    "tags": ["过桥", "手电", "统筹"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "4 人过桥，过桥时间 1、2、5、10 分钟，只有一支手电，一次最多两人，最快怎么 17 分钟过完？",
+      "why": "1 和 2 过（2 分钟），1 回（1）；5 和 10 过（10），2 回（2）；1 和 2 再过（2）。合计 17。",
+      "deep": "经典统筹题：让最慢的两人一起过。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "MIN-0020",
+    "category": "mind_games",
+    "topic": "切西瓜",
+    "tags": ["西瓜", "切", "立体"],
+    "factual_type": "HUMOR",
+    "presentation": "GAME",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "一个西瓜切 4 刀，最多切成几块？",
+      "why": "15 块：前 3 刀立体交叉，第 4 刀最多再增加 8 块。",
+      "deep": "切面越多交叉，块数越多——这是立体几何的直觉题。"
+    },
+    "source": null,
+    "related": []
+  }
+]

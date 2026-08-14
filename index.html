@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="archive">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="下一件 · 奇怪事物档案馆 —— 一个按钮，遇见任何东西。">
+  <title>下一件 · 奇怪事物档案馆</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✦</text></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-name">下一件</span>
+      <span class="brand-sub">奇怪事物档案馆</span>
+    </div>
+    <div class="top-actions">
+      <button id="btnToday" class="icon-btn" title="今日发现" aria-label="今日发现">☀</button>
+      <button id="btnTheme" class="icon-btn" title="切换皮肤" aria-label="切换皮肤">◐</button>
+      <button id="btnArchive" class="icon-btn" title="我的档案" aria-label="我的档案">☰</button>
+    </div>
+  </header>
+
+  <main id="stage">
+    <section id="intro" class="intro">
+      <div class="intro-mark">✦</div>
+      <h1>今天，你会遇见什么？</h1>
+      <button id="btnGo" class="big-btn">随机一下</button>
+      <p class="hint">一个好奇心盲盒 · 每次点击，都是未知</p>
+    </section>
+
+    <section id="card" class="card hidden" aria-live="polite"></section>
+  </main>
+
+  <footer class="foot">
+    <span>真实 / 虚构 / 传说，都标得清清楚楚</span>
+    <span class="foot-dot">·</span>
+    <span>你的数据只存在你自己的浏览器里</span>
+  </footer>
+
+  <div id="drawer-backdrop" class="drawer-backdrop hidden"></div>
+  <aside id="drawer" class="drawer" aria-hidden="true">
+    <div class="drawer-head">
+      <span class="drawer-title">我的档案</span>
+      <button id="btnCloseDrawer" class="icon-btn" aria-label="关闭">✕</button>
+    </div>
+    <nav class="drawer-tabs">
+      <button class="tab-btn active" data-tab="history">历史</button>
+      <button class="tab-btn" data-tab="favorites">收藏</button>
+      <button class="tab-btn" data-tab="stats">统计</button>
+      <button class="tab-btn" data-tab="achievements">成就</button>
+      <button class="tab-btn" data-tab="today">今日</button>
+    </nav>
+    <div class="drawer-body">
+      <section id="tab-history" class="tab-panel active"></section>
+      <section id="tab-favorites" class="tab-panel"></section>
+      <section id="tab-stats" class="tab-panel"></section>
+      <section id="tab-achievements" class="tab-panel"></section>
+      <section id="tab-today" class="tab-panel"></section>
+    </div>
+    <div class="drawer-foot">
+      <button id="btnCapsule" class="text-btn">✉ 给未来的自己留一句话</button>
+    </div>
+  </aside>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true"></div>
+  <div id="toast" class="toast hidden" role="status"></div>
+
+  <script src="js/bundle.js"></script>
+</body>
+</html>

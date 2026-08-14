@@ -1,0 +1,386 @@
+[
+  {
+    "id": "COU-0001",
+    "category": "counterfactual",
+    "subcategory": "历史假设",
+    "topic": "拿破仑",
+    "tags": ["假设", "拿破仑", "滑铁卢"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果拿破仑在滑铁卢当天没有生病，历史会怎样？",
+      "why": "他当天因健康问题指挥不力，是滑铁卢战败的常见解释之一。",
+      "deep": "这是历史假设，不是事实——但\"差一点\"总是让人着迷。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "COU-0002",
+    "category": "counterfactual",
+    "subcategory": "历史假设",
+    "topic": "苏联登月",
+    "tags": ["假设", "登月", "太空竞赛"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果苏联先登上了月球，太空竞赛会走向哪里？",
+      "why": "登月很大程度上是冷战竞赛的产物，\"谁先到\"决定了剧本。",
+      "deep": "这是历史假设，不是事实。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "COU-0003",
+    "category": "counterfactual",
+    "subcategory": "演化假设",
+    "topic": "恐龙未灭绝",
+    "tags": ["假设", "恐龙", "演化"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 1,
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "【假设】如果 6600 万年前那颗小行星没有撞地球，恐龙会演化成什么样？",
+      "why": "哺乳动物是在恐龙消失后才有机会崛起——没有那次撞击，今天的地球主角可能完全不同。",
+      "deep": "这是演化假设，不是事实。想象一下\"恐龙文明\"：会变成科幻还是恐怖片？"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "COU-0004",
+    "category": "counterfactual",
+    "subcategory": "历史假设",
+    "topic": "1940 和谈",
+    "tags": ["假设", "二战", "和谈"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "【假设】如果 1940 年英国与德国议和，世界会怎样？",
+      "why": "英国坚持抵抗，是二战走向的关键节点之一。",
+      "deep": "这是历史假设，不是事实——历史没有\"如果\"，但想象它有，是理解它的方式。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "COU-0005",
+    "category": "counterfactual",
+    "subcategory": "科技假设",
+    "topic": "互联网迟到",
+    "tags": ["假设", "互联网", "晚20年"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果互联网晚 20 年出现，世界会怎样？",
+      "why": "没有网约车、没有短视频、没有即时通讯——但也没有现在的信息焦虑。",
+      "deep": "这是科技假设。顺便想想：现在这个页面，就是那个\"如果\"里不会存在的东西。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "COU-0006",
+    "category": "counterfactual",
+    "subcategory": "历史假设",
+    "topic": "黑死病",
+    "tags": ["假设", "黑死病", "文艺复兴"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "【假设】如果欧洲没有黑死病，文艺复兴还会发生吗？",
+      "why": "黑死病让欧洲人口锐减、旧秩序松动，间接为文艺复兴腾出了空间。",
+      "deep": "这是历史假设，不是事实——历史常常用最残酷的方式开门。"
+    },
+    "source": null,
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "COU-0007",
+    "category": "counterfactual",
+    "topic": "亚历山大图书馆",
+    "tags": ["假设", "图书馆", "知识"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "【假设】如果亚历山大图书馆没有毁掉，人类知识会提前多少年？",
+      "why": "它可能保存了大量失传的希腊与埃及著作。",
+      "deep": "这是历史假设，不是事实——但\"丢失的目录\"总是让人心疼。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0008",
+    "category": "counterfactual",
+    "topic": "印刷术",
+    "tags": ["假设", "印刷术", "传播"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果印刷术早 100 年普及，世界会怎样？",
+      "why": "思想会传播得更快，改革可能会更早到来。",
+      "deep": "这是历史假设。文字复制速度，几乎决定了文明的速度。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0009",
+    "category": "counterfactual",
+    "topic": "安史之乱",
+    "tags": ["假设", "唐朝", "安史之乱"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "【假设】如果唐朝没有安史之乱，盛唐会延续多久？",
+      "why": "这场叛乱改变了唐朝的财政、军制和对外关系。",
+      "deep": "这是历史假设——历史的拐点，常常是一场叛乱。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0010",
+    "category": "counterfactual",
+    "topic": "郑和",
+    "tags": ["假设", "郑和", "航海"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果郑和的远航没有停止，接下来会发生什么？",
+      "why": "15 世纪的船队突然停止远航，原因至今有讨论。",
+      "deep": "这是历史假设——有人想象过\"另一条世界线\"。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0011",
+    "category": "counterfactual",
+    "topic": "美洲更晚被发现",
+    "tags": ["假设", "哥伦布", "美洲"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "【假设】如果美洲晚 500 年才与欧亚大陆\"相遇\"，会怎样？",
+      "why": "旧大陆的疾病与技术，改变了美洲的命运。",
+      "deep": "这是历史假设，也是一个沉重的话题。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0012",
+    "category": "counterfactual",
+    "topic": "蒸汽机",
+    "tags": ["假设", "蒸汽机", "工业革命"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果蒸汽机晚 50 年，世界会怎样？",
+      "why": "工业革命、铁路、现代城市都会推迟。",
+      "deep": "这是科技假设——一台机器的晚到，会推迟一个时代。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0013",
+    "category": "counterfactual",
+    "topic": "电话",
+    "tags": ["假设", "电话", "通信"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果电话晚出现 50 年，人类会先发明什么？",
+      "why": "通信需求不会消失，只会换一条路。",
+      "deep": "这是科技假设——需求是发明最好的导航。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0014",
+    "category": "counterfactual",
+    "topic": "青霉素",
+    "tags": ["假设", "青霉素", "医学"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "【假设】如果青霉素晚发现 20 年，多少历史会改写？",
+      "why": "抗生素让无数感染不再致命，也改变了战争伤亡率。",
+      "deep": "这是科技假设——有些发现，晚一步就是另一种世界。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0015",
+    "category": "counterfactual",
+    "topic": "爱因斯坦",
+    "tags": ["假设", "爱因斯坦", "相对论"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果爱因斯坦没有提出相对论，物理学会迟到多久？",
+      "why": "很多科学发现是\"时代的产物\"，但天才确实在加速。",
+      "deep": "这是科技假设——有人会迟到，但科学很少缺席。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0016",
+    "category": "counterfactual",
+    "topic": "美苏合作登月",
+    "tags": ["假设", "登月", "合作"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果美苏当年合作登月，太空时代会怎样？",
+      "why": "冷战是登月的燃料，合作是另一种燃料。",
+      "deep": "这是历史假设——竞争带来了速度，也带来了偏见。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0017",
+    "category": "counterfactual",
+    "topic": "互联网泡沫",
+    "tags": ["假设", "互联网", "泡沫"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "【假设】如果 2000 年互联网泡沫没有破裂，会怎样？",
+      "why": "泡沫挤掉了投机者，也挤掉了一些真公司。",
+      "deep": "这是经济假设——泡沫破灭不全是坏事，但代价很大。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0018",
+    "category": "counterfactual",
+    "topic": "猫未驯化",
+    "tags": ["假设", "猫", "驯化"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "funny",
+    "layers": {
+      "teaser": "【假设】如果猫从未被驯化，人类文明会怎样？",
+      "why": "猫帮人类守粮仓，也陪人类度过无数孤独。",
+      "deep": "这是脑洞式历史假设——至少互联网会少一半内容。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0019",
+    "category": "counterfactual",
+    "topic": "科举",
+    "tags": ["假设", "科举", "人才"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "【假设】如果中国没有科举制度，历史会怎样？",
+      "why": "科举给了平民上升通道，也塑造了\"读书改变命运\"的观念。",
+      "deep": "这是历史假设——制度塑造人，人也塑造制度。"
+    },
+    "source": null,
+    "related": []
+  },
+  {
+    "id": "COU-0020",
+    "category": "counterfactual",
+    "topic": "第一次世界大战",
+    "tags": ["假设", "一战", "世界"],
+    "factual_type": "COUNTERFACTUAL",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "【假设】如果第一次世界大战没有爆发，20 世纪会怎样？",
+      "why": "一战重塑了国家、科技和人心。",
+      "deep": "这是历史假设——蝴蝶扇动翅膀，历史就换了个方向。"
+    },
+    "source": null,
+    "related": []
+  }
+]

@@ -1,0 +1,446 @@
+[
+  {
+    "id": "PHI-0001",
+    "category": "philosophy",
+    "subcategory": "同一性",
+    "topic": "忒修斯之船",
+    "tags": ["忒修斯之船", "同一性", "思想实验"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果一艘船的每块木板都被换过，它还是原来那艘吗？",
+      "why": "这个思想实验讨论\"同一性\"：是材料定义一艘船，还是结构？",
+      "deep": "它也被用来讨论记忆、身体和\"你还是不是你\"。"
+    },
+    "source": { "name": "经典思想实验", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0002",
+    "category": "philosophy",
+    "subcategory": "人工智能",
+    "topic": "中文房间",
+    "tags": ["中文房间", "AI", "理解"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "一个完全不懂中文的人，靠规则书\"假装\"懂中文——他算\"懂\"吗？",
+      "why": "塞尔用这个实验质疑强人工智能：符号操作不等于理解。",
+      "deep": "放到今天的 AI 语境，问题依然尖锐。"
+    },
+    "source": { "name": "经典思想实验（John Searle）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0003",
+    "category": "philosophy",
+    "subcategory": "道德",
+    "topic": "电车难题",
+    "tags": ["电车难题", "道德", "选择"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "一辆失控的电车，你选择撞死一个人还是五个人？",
+      "why": "它逼你在\"功利\"和\"道德直觉\"之间选。",
+      "deep": "难的不是答案，是\"你凭什么有资格选\"。"
+    },
+    "source": { "name": "经典思想实验", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0004",
+    "category": "philosophy",
+    "subcategory": "现实",
+    "topic": "缸中之脑",
+    "tags": ["缸中之脑", "现实", "怀疑"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果你的大脑被泡在营养液里，接满电极，你怎么知道世界是真的？",
+      "why": "这是笛卡尔\"恶魔\"的现代版，怀疑一切可被欺骗的感知。",
+      "deep": "关键在于：就算无法证明，生活还是得继续。"
+    },
+    "source": { "name": "经典思想实验（Hilary Putnam）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0005",
+    "category": "philosophy",
+    "subcategory": "自由意志",
+    "topic": "决定论",
+    "tags": ["自由意志", "决定论", "选择"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果一切都有原因，\"选择\"还算数吗？",
+      "why": "决定论认为每个选择都有前因，自由意志可能只是\"事后解释\"。",
+      "deep": "但大脑科学至今没证明我们\"没有\"自由意志，也没证明\"有\"。"
+    },
+    "source": { "name": "哲学与神经科学讨论", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0006",
+    "category": "philosophy",
+    "subcategory": "意义",
+    "topic": "西西弗斯",
+    "tags": ["西西弗斯", "加缪", "意义"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "西西弗斯把石头推上山，石头又滚下来——他的幸福在哪？",
+      "why": "加缪说：\"必须想象西西弗斯是幸福的。\"因为反抗本身就有意义。",
+      "deep": "这是关于\"意义是自己给的\"的著名寓言。"
+    },
+    "source": { "name": "加缪《西西弗神话》（转述）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0007",
+    "category": "philosophy",
+    "subcategory": "幸福",
+    "topic": "体验机",
+    "tags": ["体验机", "幸福", "诺齐克"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果快乐机器能让你体验完美人生，你愿意插上吗？",
+      "why": "诺齐克的\"体验机\"思想实验：大多数人拒绝，说明我们要的不只是快乐。",
+      "deep": "它暗示真实、意义、连接，比爽更重要。"
+    },
+    "source": { "name": "经典思想实验（Robert Nozick）", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0008",
+    "category": "philosophy",
+    "subcategory": "身份",
+    "topic": "记忆与自我",
+    "tags": ["记忆", "自我", "身份"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果有一天你的所有记忆被复制给另一个人，\"你\"是谁？",
+      "why": "这拷问\"自我\"的定义：是身体、记忆，还是别的什么？",
+      "deep": "科幻总爱问它，因为没人有标准答案。"
+    },
+    "source": { "name": "原创思想情境", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0009",
+    "category": "philosophy",
+    "subcategory": "存在",
+    "topic": "末日",
+    "tags": ["末日", "存在主义", "意义"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "如果明天世界毁灭，今天你还会好好过吗？",
+      "why": "存在主义的问题：没有永恒，事还有没有意义。",
+      "deep": "答案往往不是\"有没有\"，而是\"你选择怎么回答\"。"
+    },
+    "source": { "name": "存在主义话题", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0010",
+    "category": "philosophy",
+    "subcategory": "他心问题",
+    "topic": "AI 的痛",
+    "tags": ["AI", "疼痛", "他心问题"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果 AI 说\"我疼\"，你该信吗？",
+      "why": "这涉及\"他心问题\"：我们凭什么相信别人有内心？",
+      "deep": "对 AI 的信任问题，本质是人类对自己的信任问题。"
+    },
+    "source": { "name": "原创思想情境", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0011",
+    "category": "philosophy",
+    "subcategory": "时间",
+    "topic": "时间之矢",
+    "tags": ["时间", "单向", "记忆"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 3,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "物理定律大多不分方向，但时间为什么只往前流？",
+      "why": "主流解释是\"熵\"：宇宙的混乱度只增不减，所以我们记得过去、不记得未来。",
+      "deep": "也就是说，时间的方向感可能只是统计学的错觉。"
+    },
+    "source": { "name": "时间哲学与热力学讨论", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0012",
+    "category": "philosophy",
+    "subcategory": "道德",
+    "topic": "救一人还是救十人",
+    "tags": ["道德", "数量", "选择"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "difficulty": 2,
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "救一个人和救十个人，差的只是数量吗？",
+      "why": "如果那一个人是你认识的，数量还重要吗？",
+      "deep": "道德直觉里藏着\"亲近性\"，这是计算永远算不清的部分。"
+    },
+    "source": { "name": "原创思想情境", "confidence": "widely_accepted" },
+    "related": [],
+    "weight": 1,
+    "status": "published"
+  },
+  {
+    "id": "PHI-0013",
+    "category": "philosophy",
+    "topic": "囚徒困境",
+    "tags": ["囚徒困境", "博弈", "理性"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "两个嫌犯分开审讯：都沉默判 1 年，互相出卖都判 3 年，一个出卖另一个则后者 5 年、前者无罪。你会怎么选？",
+      "why": "各自\"理性\"选择出卖，结果双输。",
+      "deep": "囚徒困境揭示了个人理性与集体理性的冲突。"
+    },
+    "source": { "name": "博弈论经典", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "PHI-0014",
+    "category": "philosophy",
+    "topic": "罗素的茶壶",
+    "tags": ["罗素", "茶壶", "证伪"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "如果我说\"太阳系里有个看不见的茶壶\"，你信吗？",
+      "why": "罗素用它说明：无法证伪的观点，不等于事实。",
+      "deep": "举证的责任，在提出观点的人。"
+    },
+    "source": { "name": "经典思想实验（Russell）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "PHI-0015",
+    "category": "philosophy",
+    "topic": "沼泽人",
+    "tags": ["沼泽人", "意识", "同一性"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "weird",
+    "layers": {
+      "teaser": "如果闪电在湖边复制出一个和你一模一样的人，\"他\"是你吗？",
+      "why": "他有你的记忆和样子，但没经历过你的人生。",
+      "deep": "思想实验在问：\"你\"到底是身体、记忆，还是历史？"
+    },
+    "source": { "name": "经典思想实验（Davidson）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "PHI-0016",
+    "category": "philosophy",
+    "topic": "双生子佯谬",
+    "tags": ["双生子", "相对论", "时间"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "双胞胎一个留地球、一个坐飞船高速旅行，回来时谁更老？",
+      "why": "狭义相对论：运动得越快，时间过得越慢。",
+      "deep": "这不是悖论，是相对论的事实——坐飞船的那个更年轻。"
+    },
+    "source": { "name": "相对论思想实验", "confidence": "verified" },
+    "related": []
+  },
+  {
+    "id": "PHI-0017",
+    "category": "philosophy",
+    "topic": "全能悖论",
+    "tags": ["全能", "石头", "悖论"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "\"全能者能不能造一块自己搬不动的石头？\"",
+      "why": "这个悖论在质疑\"全能\"这个概念本身是否自洽。",
+      "deep": "一种回答是：\"全能\"不包括逻辑上不可能的事。"
+    },
+    "source": { "name": "经典悖论", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "PHI-0018",
+    "category": "philosophy",
+    "topic": "休谟归纳",
+    "tags": ["休谟", "归纳", "太阳"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "太阳明天还会升起吗？",
+      "why": "休谟说：我们只是习惯了过去，无法从逻辑上证明未来必然重复。",
+      "deep": "相信归纳，是一种习惯，不是证明——但这并不妨碍我们相信。"
+    },
+    "source": { "name": "经典哲学问题（Hume）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "PHI-0019",
+    "category": "philosophy",
+    "topic": "萨特的自由",
+    "tags": ["萨特", "自由", "存在主义"],
+    "factual_type": "OPINION",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "solemn",
+    "layers": {
+      "teaser": "萨特说：人是被\"判\"了自由刑的。",
+      "why": "存在先于本质，你无法不选择。",
+      "deep": "不选择，也是一种选择。"
+    },
+    "source": { "name": "存在主义通识（Sartre）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "PHI-0020",
+    "category": "philosophy",
+    "topic": "维特根斯坦",
+    "tags": ["维特根斯坦", "语言游戏", "意义"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "RARE",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "维特根斯坦说：词的意义在于使用。",
+      "why": "\"游戏\"没有共同本质，只有\"家族相似\"。",
+      "deep": "这个想法改变了 20 世纪哲学的方向。"
+    },
+    "source": { "name": "分析哲学通识（Wittgenstein）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "PHI-0021",
+    "category": "philosophy",
+    "topic": "芝诺悖论",
+    "tags": ["芝诺", "乌龟", "极限"],
+    "factual_type": "THOUGHT_EXPERIMENT",
+    "presentation": "QUESTION",
+    "rarity": "UNCOMMON",
+    "length": "short",
+    "tone": "wow",
+    "layers": {
+      "teaser": "芝诺说：乌龟先跑，阿基里斯永远追不上。",
+      "why": "每次追到乌龟上一秒的位置，乌龟又前进了一点。",
+      "deep": "数学上的\"极限\"解决了它，但直觉上它还是很怪。"
+    },
+    "source": { "name": "经典悖论（Zeno）", "confidence": "widely_accepted" },
+    "related": []
+  },
+  {
+    "id": "PHI-0022",
+    "category": "philosophy",
+    "topic": "盲人摸象",
+    "tags": ["盲人摸象", "视角", "寓言"],
+    "factual_type": "OPINION",
+    "presentation": "DIDYOUKNOW",
+    "rarity": "COMMON",
+    "length": "short",
+    "tone": "curious",
+    "layers": {
+      "teaser": "盲人摸象的寓言：每个人都只摸到一部分。",
+      "why": "它提醒我们，\"真相\"常是视角的总和。",
+      "deep": "哲学上，它预演了后来的\"视角主义\"。"
+    },
+    "source": { "name": "经典寓言（来源古老）", "confidence": "widely_accepted" },
+    "related": []
+  }
+]
