@@ -1,5 +1,6 @@
-// 离线缓存：部署到网站后，访问过一次就能离线使用
-const CACHE = 'nextthing-v1';
+// 联网时重新验证资源，离线时使用最近一次成功访问的缓存
+const CACHE = 'nextthing-v2';
+const ALBUM_PATH = new URL('./album/', self.registration.scope).pathname;
 const CORE = [
   './',
   './index.html',
@@ -21,17 +22,44 @@ self.addEventListener('install', e => {
 
 self.addEventListener('activate', e => {
   e.waitUntil(
-    caches.keys().then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim())
+    caches.keys()
+      .then(keys => Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k))))
+      .then(() => self.clients.claim())
+      .then(() => self.clients.matchAll({ type: 'window' }))
+      .then(clients => Promise.all(clients.map(client => {
+        const url = new URL(client.url);
+        if (url.origin === self.location.origin && url.pathname.startsWith(ALBUM_PATH)) {
+          return client.navigate(client.url);
+        }
+      })))
   );
 });
 
 self.addEventListener('fetch', e => {
-  if (e.request.method !== 'GET') return;
+  const url = new URL(e.request.url);
+  if (e.request.method !== 'GET' || url.origin !== self.location.origin) return;
+
+  const network = fetch(e.request, { cache: 'no-cache' }).then(res => ({
+    res,
+    copy: res.ok && res.status === 200 ? res.clone() : null,
+  }));
+
+  e.waitUntil(
+    network
+      .then(async ({ copy }) => {
+        if (!copy) return;
+        const cache = await caches.open(CACHE);
+        await cache.put(e.request, copy);
+      })
+      .catch(() => {})
+  );
+
   e.respondWith(
-    caches.match(e.request).then(hit => hit || fetch(e.request).then(res => {
-      const copy = res.clone();
-      caches.open(CACHE).then(c => c.put(e.request, copy));
-      return res;
-    }))
+    network
+      .then(({ res }) => res)
+      .catch(async () => {
+        const hit = await caches.match(e.request, { ignoreSearch: true });
+        return hit || Response.error();
+      })
   );
 });
